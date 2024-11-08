@@ -187,7 +187,7 @@ Just a reminder - if you see a journal, runes, a scroll or any form of writing, 
 Another reminder - don't forget the short rests! Unless one combat bleeds into another, or there are sentries on patrol, you generally can take a short rest once you've secured your current location.
 
 ## Session 9
-### Poisoned Skies - Dawnbreaker - _The Foundry_
+### Poisoned Skies - Dawnbreaker - _The Mountain Door_
 2023-11-17
 
 The party finished searching Grimhold, the dwarven keep previously inhabited by goblinoids lead by a barghest and headed back to Daggerford, where they were greeted as heroes by Captain Arayndar Delimbiyr. In response to your many accomplishments, and the ongoing troubles with the nobles, the captain requested you attend a council of nobles, being held at Anteos Manner.
@@ -215,7 +215,7 @@ Explored so far...
 ![image](https://github.com/user-attachments/assets/bee68927-2fc5-4541-a5ce-e34a1fbade2a)
 
 ## Session 10
-### Poisoned Skies - Dawnbreaker - _The Foundry_
+### Poisoned Skies - Dawnbreaker - _The Mountain Door_
 2023-12-07
 
 We pushed our way deeper inside the cave, taking out several lizardmen along the way to a rope bridge.
@@ -243,6 +243,34 @@ Beyond the door was a long stair leading to a room with dwarven statues, but it 
 
 ![Death from Above](https://github.com/user-attachments/assets/65e2ef18-0db0-4abe-bcca-8735f76df802)
 
-## Session 11
-### Poisoned Skies - Dawnbreaker _Death from Above_
-2023-12-26
+## Session 12
+### Poisoned Skies - Dawnbreaker _The Foundry_
+2024-01-16
+
+#### Chamber of Statues
+After a much needed rest, the party entered the octagonal chamber, with three large statues and and two northern doors between them. After some brief investigation, it was discovered there was a secret door to the east and likely that opening either of the northern doors would trigger the statues to attack. Further investigation revealed they were in fact false doors. The party traveled through the secret door, up a staircase, where a pressure plate triggered a magic mouth in the relief of a dwarf's head in the eastern door at the top of the stairs to shout out a warning. 
+
+#### The Great hall
+The party proceeded to enter a large, well lit hall with columns spanning west to east, with a dais on the eastern end and a small campsite in front of it. Quickly it was determined that several lizadfolk cultists were waiting behind the columns to ambush the party. Several were initiates but two were dragonclaw spellcasters.
+
+#### The Foundry
+After defeating the lizardfolk in the great hall, the party entered the foundry to the south, where several initiates were attempting to forge a blade. Steward, posing as a lizardfolk drew them into the Great Hall, where they were quickly dispatched. A cavern to the east was discovered that lead to a great chasm with a chain ladder. It was decided that they should continue clearing this level before descending. 
+
+#### Courtyard and Commons
+An ancient battle space was discovered, where many dwarves and a great many more lizardfolk lost their lives. The dwarven courtyard and commons area was littered with corpses. 
+
+#### Desecrated Shrine
+To the west, a shrine was discovered. Eg used detect magic and determined the presence of abjuration at the altar and at least three sources of necromancy nearby. The party decided to save this for later.
+
+#### Horin's Quarters and Council Chamber
+After encircling the eastern portion of the foundry, the party discovered a secret exit from Horin's quarters, the famed leader and great smith of the dwarven enclave. The area was now housing the cult's leader, Nimira, a powerful lizardfolk dragonfang. She was surprised sleeping, out of her armor, so the party chose to take the initiative. During the fight, her first lieutenant, Varak, a dragonwing wielding a greataxe entered the fight from the Council Chamber to the east. Steward tricked Varak into running back into the Council Chamber with a minor illusion, but Varak's loyalty to Nimira brought him back. After the party defeated the two, they discovered a satchel with the Dawnbreaker manifesto. 
+
+*The Dawnbreakers are a faction of the Keepers of the Sacred Horn, known as the Horns of the Black Beast, or simply, Dawnbreakers. As with other Cult of the Dragon followers, they venerate dragons, especially undead dragons. The Dawnbreakers are devoted to Ixira, raising her in life to at least 100 years (she is in her late 90s), then with the intention of performing the rituals to elevate her to dracolich status. A special black sapphire talisman has been designated as her phylactery. They are fully committed devotees, working with any allies they deem useful, mentioning specifically the goblins of Grimhold, the giants of Vith Rah (Temple of the Snake God), the spider clutter of Blackbranch as well as are several noble houses of Daggerford, though they appear to be in some form of code, as the names are draconic for “feathered house”, “black house” and several lumped in as “houses of gluttony”.*
+
+*Namira and her captain*
+
+![image](https://github.com/user-attachments/assets/68c14efa-a3e6-4a4a-819a-7f0368bc0a0e)
+
+![image](https://github.com/user-attachments/assets/23cf6a35-2d18-4440-915f-9974705714ca)
+
+
