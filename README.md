@@ -729,3 +729,30 @@ The party infiltrated the ruins to find foul creatures, spectators, beholder-kin
 What will happen next?!?!
 
 ![image](https://images-ext-1.discordapp.net/external/aXVJbWMhbAdnaYakFJlDmD8KWY6vSDEyawVSyo1kskU/%3Fid%3D1QV-1vhMEHzTsDproWSvmnqm_Tg5rhClY%26sz%3Dw3000/https/drive.google.com/thumbnail?format=webp&width=1167&height=1200)
+
+# Session 26 - _Weald of Woe - Whispers by the Sea_
+2024-11-07
+
+The party followed the map to the Burnt Tongue temple, a ruin repurposed by Viallis and his followers to summon evils
+from the Far Realm, using the rituals collected from various sources, including _Retribution of the Ancients_. After 
+defeating several guards - Dreadscale Disciples and Burnt Tongue Cultists - along with Far Realm creatures, the party 
+encountered a cultist who they captured and interrogated. They learned there was a ritual underway to summon more
+creatures from the Far Realm, including Aylith, a mind flayer worshiped by the cult. 
+
+The party moved further into the ruined temple to find a sanctuary, repurposed for dark means. Within, one victim had
+already been sacrificed, and the entire chamber was bathed in an unholy purplish light. After slaying several of the 
+cultists, including Viallis and Faerl, one of the surviving cultists slew the last victim, bringing Aylith from the
+Far Realm to the sanctuary. 
+
+The party defeated the rest of the cultists and narrowly escaped enslavement by Aylith, as Flanksteak had grappled 
+him - giving Aylith too tempting of a prize to devour - Flanksteak's brain. Steward's uncanny ability to alter reality
+saved Flanksteak from being the first to need the Revivify scroll and the enemies were defeated. 
+
+The party then went down the sacrificial holes used to drop bones down to the lower level. There they encountered more
+cultists and a grick, as well as several live hostages from Leilon and the surrounds.
+
+After defeating the remaining cultists and securing the prisoners, they found a massive internment of nearly a hundred
+victims, including Lady Maria and her children and the remains of Sarah, the ghost who had started this long ago...
+
+Further investigation of the temple uncovered dark rights and rituals, along with a journal and some correspondence. 
+
