@@ -1,5 +1,6 @@
 
-## Session 1 (07-07-23)[date:"mdy"]
+## Session 1 
+(07-07-23)[date:"mdy"]
 
 ## Session 0
 All of the technical and rules details are here
