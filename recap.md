@@ -1,10 +1,9 @@
 
-## Session 0
+# Session 0
 All of the technical and rules details are here
 [session 0 document](https://docs.google.com/document/d/1cXXC0yDAo55sgE_0qbyLjsV7GvXNz2fN0aEy5-_713w/edit?usp=sharing)
 
-## Session 1 
-### Poisoned Skies - Darkening of the Wood
+# Session 1  - _Poisoned Skies - Darkening of the Wood_
 2023-07-07
 
 The players met in the marketplace of Daggerford. Hinan was recovering from some wounds, moving from a house in the eastern shanties toward the smiths on Tanner Way. Steward and Rick were working at a consignment stall. Eg, Theren and Mara were perusing the markets, with Eg seeking out woolen cloaks. 
@@ -48,8 +47,7 @@ Cara is a young woman with short, dark hair and piercing brown eyes. She is of a
 
 Her crew has been asking around and offering a reward for her safe return.
 
-## Session 2
-### Poisoned Skies - Darkening of the Wood
+# Session 2 - _Poisoned Skies - Darkening of the Wood_
 2023-07-26
 
 The players continued following the lead given to Mara by the fairy in the market and headed into the Blackbranch forest. 
@@ -76,8 +74,7 @@ The party lit a spider web on fire, that attracted two spider swarms, a handful 
 
 What lies ahead?
 
-## Session 3
-### Poisoned Skies - Darkening of the Wood
+# Session 3 - _Poisoned Skies - Darkening of the Wood_
 2023-08-09
 
 After delving further into the spiders' underground lair, on the upper west side of the cavern is a collection of cocooned bodies, bones and refuse, demonstrating these spiders answer nature’s call where they feed. Upon inspection, one of the bodies wears a pendant adorned with a stylized dragon symbol. Amongst the refuse are the remains of several used poison kits. 
@@ -92,8 +89,7 @@ After parlaying with the clutter queen, trading her life for the coccon, the par
 
 The party headed back toward Daggerford, and everyone gained a level (2). On the way back, they tussled with another group of nobles who were in the process of summary execution, again, of a young adult if not a child.
 
-## Session 4
-### Poisoned Skies - Temple of the Snake God
+# Session 4 - _Poisoned Skies - Temple of the Snake God_
 2023-08-18
 
 The party returned returned Hallis, the young adult rescued from the Liam's Hold Retinue, to his home in the outlying farms of Daggerford and headed into the city proper, with an eye out for the wanted posters. 
@@ -114,8 +110,7 @@ Near the ogre's death, after killing or routing the goblins and bloodying the og
 
 Out of the ruins of a nearby tower came two more large creatures, one wielding a massive ballista. After a somewhat grueling battle, the party sheltered in the ruined tower for a much needed rest.
 
-## Session 5
-### Poisoned Skies - Temple of the Snake God
+# Session 5 - _Poisoned Skies - Temple of the Snake God_
 2023-09-21
 
 The party entered the structure under the tower after resting at the ground level. It was clear the ruins were only recently occupied by the ogre-kin, and the previous inhabitants had perished long ago, due to a cataclysmic event, leveling the structure above ground and sealing it's inhabitants to suffer slow and agonizing deaths. 
@@ -124,8 +119,7 @@ The party investigated the structure, defeated several ogres, rescued hostages a
 
 The party also befriended a giant boar, serving the ogres. 
 
-## Session 6
-### Poisoned Skies - Interim
+# Session 6 - _Poisoned Skies - Interim_
 2023-10-12
 
 The party returned the hostages, Rhys, an influential trader, from house Merriweather, Eira Rivenwood, an herbalist and mother figure to the other hostages, Gwenneth, a teenage girl with surprising resilience,  who the ogre leader attempted to use as human shield, Aldric, a hunter from Daggerford and Eldra, a botanist determined to escape.
@@ -136,8 +130,7 @@ The party set up watch at Fineas' ranch, and discovered some poisoned plants. Th
 
 After un uneventful evening, the party elected to follow Emyr's direction and headed to the region between the Blackbranch and Blightwood forests.
 
-## Session 7
-### Poisoned Skies - Grimhold
+# Session 7 - _Poisoned Skies - Grimhold_
 2023-10-20
 
 After un uneventful evening setting up watch at Fineas' farm, the party elected to follow Emyr's direction and headed to the region between the Blackbranch and Blightwood forests.
@@ -162,13 +155,12 @@ The party continued into the keep, first scouting out the upper level of the sou
 
 The first goblin that was killed had a satchel with some disgusting food and a letter of correspondence between the goblins. They mentioned allowing plundered stores to rot, making them far more delectable, filled with maggots... The letter also mentioned receiving spider poison, but did not elucidate on who from. The goblins also seem to be missing some patrols, but it was unclear as to why. After one such missing patrol had left, Grimgore, perhaps their leader, was seen leaving the fort.
 
-## Session 8
-### Poisoned Skies - Grimhold
+# Session 8 - _Poisoned Skies - Grimhold_
 2023-11-14
 
 The party continued to explore the ruined keep, entering the inner ward where they got the jump on the hobgoblins in main floor of the southeast tower. 
 
-#### Note
+## Note
 It was questioned why the party did not get surprise. I mentioned you weren't all hiding but wanted to explain a bit further here. Usually, this means you are hiding. While the inner ward was brightly lit (which obviates hiding without cover), there was plenty of cover (total cover guarantees success, half cover grants a Stealth check). However, in order to have line of sight for an attack, Therin and was directly in line with the door.  In order to achieve surprise, an enemy must not notice any threat - meaning, even noticing one party member spoils surprise. If you all make Stealth checks, only the lowest roll matters, with respect to surprise. However, many of you did achieve attacking as an unseen attacker for your first attack. Surprise and being an unseen attacker are related, but you can have both or one without the other, depending on circumstances. You can also have one or more enemies that are surprised while others are not. 
 
 To be fair, upon reflection, I should have probably still had at least the first hobgoblin be surprised, because the enemy did not expect anyone to be in the inner ward and at the point they opened the door, everyone was behind total cover. 
@@ -188,8 +180,7 @@ Just a reminder - if you see a journal, runes, a scroll or any form of writing, 
 
 Another reminder - don't forget the short rests! Unless one combat bleeds into another, or there are sentries on patrol, you generally can take a short rest once you've secured your current location.
 
-## Session 9
-### Poisoned Skies - Dawnbreaker - _The Mountain Door_
+# Session 9 - _Poisoned Skies - Dawnbreaker - _The Mountain Door__
 2023-11-17
 
 The party finished searching Grimhold, the dwarven keep previously inhabited by goblinoids lead by a barghest and headed back to Daggerford, where they were greeted as heroes by Captain Arayndar Delimbiyr. In response to your many accomplishments, and the ongoing troubles with the nobles, the captain requested you attend a council of nobles, being held at Anteos Manner.
@@ -216,8 +207,7 @@ Explored so far...
 
 ![image](https://github.com/user-attachments/assets/bee68927-2fc5-4541-a5ce-e34a1fbade2a)
 
-## Session 10
-### Poisoned Skies - Dawnbreaker - _The Mountain Door_
+# Session 10 - _Poisoned Skies - Dawnbreaker - _The Mountain Door__
 2023-12-07
 
 (*Steward*)
@@ -232,8 +222,7 @@ Party went ahead and encountered Lizard Queen and her attendants. Crazy battle e
 
 Afterwards, Nelix told us how she was a cutpurse who ended up finding and raising the last egg of the bronze dragon and is here to kill the acid dragon.
 
-## Session 11
-### Poisoned Skies - Dawnbreaker _Glitterhame_
+# Session 11 - _Poisoned Skies - Dawnbreaker _Glitterhame__
 2023-12-26
 
 After defeating the lizardfolk queen, the party descended to the Glitterhame, the former mines for the Forgespire dwarves, a large series of natural caverns in the heart of the Theraldur.
@@ -246,26 +235,25 @@ Beyond the door was a long stair leading to a room with dwarven statues, but it 
 
 ![Death from Above](https://github.com/user-attachments/assets/65e2ef18-0db0-4abe-bcca-8735f76df802)
 
-## Session 12
-### Poisoned Skies - Dawnbreaker _The Foundry_
+# Session 12 - _Poisoned Skies - Dawnbreaker _The Foundry__
 2024-01-16
 
-#### Chamber of Statues
+## Chamber of Statues
 After a much needed rest, the party entered the octagonal chamber, with three large statues and and two northern doors between them. After some brief investigation, it was discovered there was a secret door to the east and likely that opening either of the northern doors would trigger the statues to attack. Further investigation revealed they were in fact false doors. The party traveled through the secret door, up a staircase, where a pressure plate triggered a magic mouth in the relief of a dwarf's head in the eastern door at the top of the stairs to shout out a warning. 
 
-#### The Great hall
+## The Great hall
 The party proceeded to enter a large, well lit hall with columns spanning west to east, with a dais on the eastern end and a small campsite in front of it. Quickly it was determined that several lizadfolk cultists were waiting behind the columns to ambush the party. Several were initiates but two were dragonclaw spellcasters.
 
-#### The Foundry
+## The Foundry
 After defeating the lizardfolk in the great hall, the party entered the foundry to the south, where several initiates were attempting to forge a blade. Steward, posing as a lizardfolk drew them into the Great Hall, where they were quickly dispatched. A cavern to the east was discovered that lead to a great chasm with a chain ladder. It was decided that they should continue clearing this level before descending. 
 
-#### Courtyard and Commons
+## Courtyard and Commons
 An ancient battle space was discovered, where many dwarves and a great many more lizardfolk lost their lives. The dwarven courtyard and commons area was littered with corpses. 
 
-#### Desecrated Shrine
+## Desecrated Shrine
 To the west, a shrine was discovered. Eg used detect magic and determined the presence of abjuration at the altar and at least three sources of necromancy nearby. The party decided to save this for later.
 
-#### Horin's Quarters and Council Chamber
+## Horin's Quarters and Council Chamber
 After encircling the eastern portion of the foundry, the party discovered a secret exit from Horin's quarters, the famed leader and great smith of the dwarven enclave. The area was now housing the cult's leader, Nimira, a powerful lizardfolk dragonfang. She was surprised sleeping, out of her armor, so the party chose to take the initiative. During the fight, her first lieutenant, Varak, a dragonwing wielding a greataxe entered the fight from the Council Chamber to the east. Steward tricked Varak into running back into the Council Chamber with a minor illusion, but Varak's loyalty to Nimira brought him back. After the party defeated the two, they discovered a satchel with the Dawnbreaker manifesto. 
 
 *The Dawnbreakers are a faction of the Keepers of the Sacred Horn, known as the Horns of the Black Beast, or simply, Dawnbreakers. As with other Cult of the Dragon followers, they venerate dragons, especially undead dragons. The Dawnbreakers are devoted to Ixira, raising her in life to at least 100 years (she is in her late 90s), then with the intention of performing the rituals to elevate her to dracolich status. A special black sapphire talisman has been designated as her phylactery. They are fully committed devotees, working with any allies they deem useful, mentioning specifically the goblins of Grimhold, the giants of Vith Rah (Temple of the Snake God), the spider clutter of Blackbranch as well as are several noble houses of Daggerford, though they appear to be in some form of code, as the names are draconic for “feathered house”, “black house” and several lumped in as “houses of gluttony”.*
@@ -276,8 +264,7 @@ After encircling the eastern portion of the foundry, the party discovered a secr
 
 ![image](https://github.com/user-attachments/assets/23cf6a35-2d18-4440-915f-9974705714ca)
 
-## Session 13
-### Poisoned Skies - Dawnbreaker _The Black Lake_
+# Session 13 - _Poisoned Skies - Dawnbreaker _The Black Lake__
 2024-01-16
 
 (*Lulu*)
@@ -292,8 +279,7 @@ Treasure was collected and the party got the heck outta Dodge.
 ![image](https://github.com/user-attachments/assets/f3ccd358-4dde-4675-9e68-7182bf71eaba)
 ![image](https://github.com/user-attachments/assets/8b5c38ef-489f-4b32-a94f-9fcee716585e)
 
-## Session 14
-### Weald of Woe - _Whispers by the Sea_
+# Session 14 - _Weald of Woe - _Whispers by the Sea__
 2024-02-15
 
 *The cylinder contains a parchment with secret orders, written in Aragrakh, an ancient dialect of draconic. 
@@ -328,11 +314,10 @@ Although we do have a cult to stop.  More later
 *- The family owned several tanneries and shoemaking shops in Waterdeep, but most of its wealth was inherited on Maria's side.*
 *- Lord Viallis' closest business associate was an elf named Faerl, who visited Lord Viallis twice a tenday.*
 
-## Session 15
-### Weald of Woe - _Whispers by the Sea_
+# Session 15 - _Weald of Woe - _Whispers by the Sea__
 2024-03-07
 
-#### Research
+## Research
 Eg and Pad studied the archives at the Great Library, Lulu and RIck put ears to the ground in the seedy underworld, Reichart toured the temples while Steward gain access to court records and cozied to various nobility, carefully hinting at various indiscretions to loosen lips. _I should have written this sooner - I don't recall exactly what everyone was doing._ In the course of their investigations, the party learned the following. 
 
 - Lord Yellowcrest was away from Waterdeep on business, then returned to find his wife, his sons and daughter, and the manor's four servants brutally murdered. Shocked into a deep depression by the tragedy, Lord Yellowcrest left Waterdeep to be alone with his grief.
@@ -341,7 +326,7 @@ Eg and Pad studied the archives at the Great Library, Lulu and RIck put ears to 
 - Research in Waterdeep turns up references in other works to a book whose cover matches Sarah's sketch—a tome called Retribution of the Ancients.
 - Lord Viallis, wanting to get away from talk of his family's death, moved to the newly re-inhabited village of Leilon, a tenday's travel north of Waterdeep, along the Sword Coast.
 
-#### Interviewing the Butler
+## Interviewing the Butler
 While visiting the manor itself, the party learned the following from Arnulf, the current residents' butler. 
 - The manor was previously owned by the Yellowcrest family, most of whom were killed one night.
 - Though full details of the event were never made public, rumor holds that Lady Maria, her three children, and four servants were all stabbed to death, then had their tongues removed.
@@ -349,14 +334,14 @@ While visiting the manor itself, the party learned the following from Arnulf, th
 - After the murders, Viallis sold the manor and all his family's possessions, then moved to a small village in the countryside.
 - A few tanneries, leatherworkers' shops, and cobblers' shops in the Trades Ward off the Way of the Dragon, reportedly still belong to Lord Viallis, but if he has ever returned to Waterdeep, Arnulf doesn't know about it.
 
-#### Visting the tanneries, cobblers and leatherworkers
+## Visting the tanneries, cobblers and leatherworkers
 Visiting the various shops the players learned the following. 
 - Lord Viallis has an overseer who comes once every second tenday to check the books of each enterprise, pay wages, and collect profits. 
 - The overseer, an elf named Faerl, lives in the village of Leilon approximately midway between Waterdeep and Neverwinter, and is expected in the tomorrow morning.
 
 After which, the party stayed at the inn for the evening and returned early to stake out the tannery.
 
-#### Faerl's arrival
+## Faerl's arrival
 Faerl arrived in a black coach, accompanied by several bodyguards. In brief conversation, Faerl divulged the following. 
 - The fact that no one was ever charged with the crime "a terrible injustice." 
 - If asked about Lord Viallis, Faerl describes him as "broken by the tragedy." 
@@ -364,8 +349,7 @@ Faerl arrived in a black coach, accompanied by several bodyguards. In brief conv
 It was clear at this point, Faerl had had enough questioning, and ordered his guards to escort him to the coach. 
 _We rolled initiative and paused the game. This is where we'll pick up next session._
 
-## Session 16
-### Weald of Woe - _Leilon_
+# Session 16 - _Weald of Woe - _Leilon__
 2024-03-28
 
 Siedan Muhar, boar stalker, a brawny Reshimi hunting a boar
@@ -399,8 +383,7 @@ Places to visit in town
 - Quayside (docks)
 - Viallis' estate
 
-## Session 17
-### Weald of Woe - _Leilon_
+# Session 17 - _Weald of Woe - _Leilon__
 2024-04-19
 
 Eg, Lulu, Steward and Barricade roamed Leilon looking for information. 
@@ -471,8 +454,7 @@ disappearance/return of Alice & Ava, Viallis, the ghost sightings in Leilon, the
 Ancients, the Dreadscale Disciples????? Too many threads, gotta be related. Meditating isn’t going
 well.*
 
-## Session 18
-### Weald of Woe - _Mystic Reverie_
+# Session 18 - _Weald of Woe - _Mystic Reverie__
 2024-05-11
 
 Party perused Leilon, picking up on leads, trying to determine if Umaira was a threat, largely concluding he wasn't aware of his possession. While perusing the Peculiarities Shoppe (Ursten's NOT Aubrey's) a painting of the Swords of Leilon was discoverd and Usrten informed the party they were Aubrey Silverspun, Augusta Krul and Ogri Ninebeards.
