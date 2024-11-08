@@ -289,3 +289,39 @@ Treasure was collected and the party got the heck outta Dodge.
 
 ![image](https://github.com/user-attachments/assets/f3ccd358-4dde-4675-9e68-7182bf71eaba)
 ![image](https://github.com/user-attachments/assets/8b5c38ef-489f-4b32-a94f-9fcee716585e)
+
+## Session 14
+### Weald of Woe - _Whispers by the Sea_
+2024-02-15
+
+*The cylinder contains a parchment with secret orders, written in Aragrakh, an ancient dialect of draconic. 
+The orders, dated several days ago, direct followers from house Ambergul, Halyndliam and Cromm, to head north to Leilon. Daggerford has become aware of their efforts and Ixira has been slain. Leilon is rebuilding and still weak enough not to oppose them and there are many allies in the region, including the Dreadscale Disciples (evidently another sect of the Keepers of the Sacred Horn), who have been working in Leilon for months. 
+Alicia, consort of Kord Reynard Ambergul was kidnapped and taken to house Shahid. 
+The last line reads, Focus efforts on preparing Alicia and assisting the Dreadscale Disciples.*
+
+*Yellowcrest Manor stands on Delzorin Street, between Vhezoar Street and Brondar’s Way in Waterdeep's North Ward.*
+*Lord Viallis and Lady Maria had two sons, Malik and Janus, and one daughter, Tianna.*
+*The family owned several tanneries and shoemaking shops in Waterdeep, but most of its wealth was inherited on Maria's side.*
+*Lord Viallis' closest business associate was a half-drow named Faerl, who visited Lord Viallis twice a tenday.*
+
+(*Mara*)
+The party journeyed north offering their 'escort services' to [some NPC] headed to Waterdeep. This gave them an opportunity to turn a trip they were going to make anyway into one that also paid. The journey took 7 days, and Leilon (their ultimate destination) lay another 10 days out, but an interesting opportunity presented itself to address first in Waterdeep.
+
+(*Lulu*)
+_From LuLu’s Journal_
+Entry #72:
+Wow what a few days it’s been.  So glad that dragon’s gone.  We got some nice loot too.  I REALLY wanted to collect some of that acid, but we couldn’t make it work.  I like my new bow, though – dwarven made!
+We left Theraldur (I can imagine what a great place it was in it’s heyday!) and headed back to Daggerford to report our activities and findings (that “manifesto” was going to help) when we were ambushed (sorry Ada.)  There were some more cultists who attacked.  Thankfully, there were 2 more people sent from Daggerforld to help out in the cultist hunt who showed up and helped us defeat them.  Reichart and Padrick were actually pretty awesome. We kept one cultist alive for questioning, and I got a bit overzealous (as usual).  I think I scared Pad a little (maybe Eg too to be honest.)  I need to tone it down.  We learned about some future plans by the cultists – they even had some secret orders in ANCIENT Draconic, which of course, Steward knew.  It named the Daggerford Houses involved, and new plans changing focus to the north in Leilon.
+We turned our captive in to authorities in Daggerford and presented our information to Lady Daggerford.  She was very intrigued by the mention of Leilon and filled us in on some details, and seemed very curious about the Keepers of the Sacred Horn.  Again, overzealous me became suspicious of her ability to speak (sort of) ancient draconic.  I mean, we ARE hunting dragon cultists.
+Then we went shopping with our new friends.  And yes, you're right Mom, sometimes you do make friends quickly when adventuring.  I wonder if Barricade has figured out yet that Pad isn’t using Druid magic to change into a hare.
+More later. 
+Entry #73
+We took a small job escorting a caravan of goods to Waterdeep (since we needed to go that direction anyway.)  Uneventful.  Except when we came across a large tree blocking the road.  Guess who got overzealous again, thinking it was another ambush?  We actually got rewarded by some Waterdeep guards with some really nice wine for moving the tree out of the way.
+Oh yeah.  Before we made it all the way to Waterdeep, we actually ran into a spirit.  Crazy.  Barricade (that dude fears nothing) let it possess him.  We found out she was Sarah, a servant of a Waterdeep family who had witnessed some pretty scary things: ritual casting, rune circles, a tome bearing an image of a monster, and the murder of the whole family and their house (Yellowcrest Manor).  I think everyone wants to investigate when we get to WD and maybe see if we can help Sarah and the rest of the poor trapped souls.
+Although we do have a cult to stop.  More later
+
+*In her distressed rants, the poor servant's spirit to reveals this information:*
+*- Yellowcrest Manor stands on Delzorin Street, between Vhezoar Street and Brondar’s Way in Waterdeep's North Ward.*
+*- Lord Viallis and Lady Maria had two sons, Malik and Janus, and one daughter, Tianna.*
+*- The family owned several tanneries and shoemaking shops in Waterdeep, but most of its wealth was inherited on Maria's side.*
+*- Lord Viallis' closest business associate was an elf named Faerl, who visited Lord Viallis twice a tenday.*
