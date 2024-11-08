@@ -288,3 +288,4 @@ After scouting a bit and a few minutes of well-executed mending on the bridge, t
 Treasure was collected and the party got the heck outta Dodge.
 
 ![image](https://github.com/user-attachments/assets/f3ccd358-4dde-4675-9e68-7182bf71eaba)
+![image](https://github.com/user-attachments/assets/8b5c38ef-489f-4b32-a94f-9fcee716585e)
