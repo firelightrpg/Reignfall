@@ -213,3 +213,31 @@ Barricade was able to see a chamber with a narrow ledge overlooking a deep, dark
 Explored so far...
 ![image](https://github.com/user-attachments/assets/bee68927-2fc5-4541-a5ce-e34a1fbade2a)
 
+## Session 10
+### Poisoned Skies - Dawnbreaker
+2023-12-07
+
+We pushed our way deeper inside the cave, taking out several lizardmen along the way to a rope bridge.
+
+After we cross the bridge, we enter a space filled with old dwarven furniture and a cage. In the caged area are two captives: Garrett,  human from farming settlement, Union. Neelix, Elf lady with daggers. After we freed them, the man left after we gave him a weapon. Nelix stayed with us.
+We were told Ixira is the name of the acid dragon.
+
+Nelix told us the cave was made by the Dwarf clan Forgespire. They built Theroldor(?) to defend against enemy menaces and work with the Bronze Dragon Zephira. They left the outpost open to attack and bronze dragon was killed.
+
+Party went ahead and encountered Lizard Queen and her attendants. Crazy battle ensued. Nelix helped take out the baddies.
+
+Afterwards, Nelix told us how she was a cutpurse who ended up finding and raising the last egg of the bronze dragon and is here to kill the acid dragon.
+
+## Session 11
+### Poisoned Skies - Dawnbreaker _Death from Above_
+2023-12-26
+
+After defeating the lizardfolk queen, the party descended to the Glitterhame, the former mines for the Forgespire dwarves, a large series of natural caverns in the heart of the Theraldur.
+
+After examining carefully several dwarven sarcophagi and leaving them unlooted, the party encountered a roper and it's piercer children guarding the Dwarf Door. 
+
+The party found a key that opened the door on a mold covered skeleton and secured the area for a much needed rest.
+
+Beyond the door was a long stair leading to a room with dwarven statues, but it was only briefly examined for enemies and left for after the rest.
+![image](https://github.com/user-attachments/assets/65e2ef18-0db0-4abe-bcca-8735f76df802)
+
