@@ -1,4 +1,32 @@
 
+## Session 2
+2023-07-26
+
+The players continued following the lead given to Mara by the fairy in the market and headed into the Blackbranch forest. 
+
+The fairy (who mysteriously neglected to give her name) seeks the aid of the players, sharing her concerns about the deteriorating state of the forest. She suspects dark magic at work and asks the players to investigate the cause and restore balance to the forest.
+
+The once lush and peaceful forest Blackbranch has been slowly turning into a dark and foreboding place. 
+
+Further, the family the players assisted in Stillwater mentioned several traders from an oared cog with goods destined for Waterdeep have gone missing while venturing into Blackbranch to forage mushrooms after mooring their cog, leaving behind only shredded clothes and signs of a struggle.
+
+After defeating the initial group of spiders, apparently on the prowl, the party ventured further. 
+
+As you emerged into a clearing, an eerie sight unfolded before you. The ground is carpeted with a thick layer of webs, spun intricately between the surrounding trees and across the clearing like a gossamer veil.
+
+In the center of the clearing, a once-majestic tree stands, now decayed and hollowed out, its bark worn and weathered. The tree's skeletal branches reach out like twisted arms, adorned with a macabre display. From its gnarled branches, desiccated humanoids are suspended, their bodies wrapped tightly in silken cocoons of spider webs. The victims' features are obscured by the webbing, their forms suspended in a grotesque dance of death. Some are left to dangle freely, while others have been carefully placed within the hollowed trunk, their lifeless forms arranged with unsettling precision.
+
+The party fought another group of spiders, one of which could phase in and out of seeming existence. 
+
+After defeating those spiders, you followed the spiders' trail until you emerged from dense foliage, and spotted three cave entrances scattered along the hillside. The right entrance is a sinkhole going down in a series of 5-6 foot dirt embankments to a rough hole leading down. It appears as a dark maw within the rocky outcrop with jagged edges and a narrow opening.
+
+You opted for the narrow cleft between two rocks, about 15' up the hillside. 
+
+The party lit a spider web on fire, that attracted two spider swarms, a handful of smaller spiders and an unsettling spider shepherd with features both human and arachnid. 
+
+What lies ahead?
+
+
 ## Session 1 
 2023-07-07
 
