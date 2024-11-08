@@ -172,7 +172,7 @@ The party continued to explore the ruined keep, entering the inner ward where th
 It was questioned why the party did not get surprise. I mentioned you weren't all hiding but wanted to explain a bit further here. Usually, this means you are hiding. While the inner ward was brightly lit (which obviates hiding without cover), there was plenty of cover (total cover guarantees success, half cover grants a Stealth check). However, in order to have line of sight for an attack, Therin and was directly in line with the door.  In order to achieve surprise, an enemy must not notice any threat - meaning, even noticing one party member spoils surprise. If you all make Stealth checks, only the lowest roll matters, with respect to surprise. However, many of you did achieve attacking as an unseen attacker for your first attack. Surprise and being an unseen attacker are related, but you can have both or one without the other, depending on circumstances. You can also have one or more enemies that are surprised while others are not. 
 
 To be fair, upon reflection, I should have probably still had at least the first hobgoblin be surprised, because the enemy did not expect anyone to be in the inner ward and at the point they opened the door, everyone was behind total cover. 
----
+
 
 After a tough battle with the hobgoblins, the party proceeded into the northwest tower, where they fought a mixed group of goblins, hobgoblins and a bugbear. 
 
