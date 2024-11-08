@@ -756,3 +756,9 @@ victims, including Lady Maria and her children and the remains of Sarah, the gho
 
 Further investigation of the temple uncovered dark rights and rituals, along with a journal and some correspondence. 
 
+## Viallis’ Journal, Entry #257
+>"The disciples of Dreadscale grow more frantic with each passing day. Their wyrmspeaker, Ssyldrith, believes the ritual will be the pinnacle of their ambition—to transform Ungrix, the shadow-wreathed green dragon, into a dracolich of unspeakable power. But I know better. Dragons are such foolish creatures, clinging to the belief that undeath will grant them true dominion. Their Horn of Ascendancy is merely a relic of failed promises.
+>
+>Yet, Ungrix’s disciples move forward. They will initiate the first phase of the conversion ritual under the ruins in the Mere of Dead Men. The sacrifices are gathered, and once the horn calls to her, she will be bound to the will of the Dreadscale—no longer a dragon, but a puppet of their own making. It amuses me to no end.
+>
+>Still, I have my own purposes to tend to. These distractions are beneath me, yet I shall humor them a while longer. The mere thought of their desperation is... useful."
