@@ -806,4 +806,7 @@ Steward used his helm and keen mind, as well as Lulu's advice to discern the con
 >
 >Abandoned by her mother and ostracized by other dragons who sensed her lowly status, Ungrix became consumed by a desire for power and independence, forging her own path through alliances with the disciples and shadow magic.
 
+The party returned the remaining hostages to Leilon, along with the remains. 
+> Sarah, Lady Maria and her children materialize before you, hugging each other. Sarah then speaks, “The shadows still coil in the swamp where the green scaled tyrant dwells, an ancient temple defiled by new masters,” then fades, her connection to the cult finally broken as their spirits finally leaves the material. The spirits then vanish, their forms scattering like flower petals on the wind.
+
 What will the party do next? It is not clear where this temple is, other than in the Mere of Dead Men, which is a very large swath of misty swamp. 
