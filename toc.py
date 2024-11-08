@@ -1,6 +1,6 @@
 import re
 
-# Load your markdown content from a file or a string
+# Load your markdown content from the README file
 with open("README.md", encoding="UTF-8") as f:
     markdown_content = f.read()
 
@@ -11,16 +11,17 @@ headers = re.findall(r"^\s*# (Session \d+ - .+)$", markdown_content, re.MULTILIN
 toc = []
 for header in headers:
     title = header.strip()
-    # Generate GitHub-compatible anchor by lowercasing and replacing spaces and special characters
+    # GitHub-compatible anchor: lowercase, replace spaces with hyphens, remove special characters and underscores
     anchor = title.lower().replace(" ", "-")
-    anchor = re.sub(r"[^\w-]", "", anchor)  # Remove any special characters
+    anchor = re.sub(r"[^\w-]", "", anchor).replace("_", "")  # Remove any special characters and underscores
     toc.append(f"- [{title}](#{anchor})")
 
 # Combine TOC and original content
 toc_content = "\n".join(toc)
 final_content = f"## Table of Contents\n{toc_content}\n\n{markdown_content}"
 
-print("Generated Markdown Content:")
-
+# Output the final content to README.md
 with open("README.md", "w", encoding="UTF-8") as f:
     f.write(final_content)
+
+print("Generated and saved Markdown Content with updated Table of Contents.")

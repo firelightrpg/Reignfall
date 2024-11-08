@@ -1,64 +1,36 @@
-## Table of Contents
-- [Session 1 - _Poisoned Skies - Darkening of the Wood_](#session-1---_poisoned-skies---darkening-of-the-wood_)
-- [Session 2 - _Poisoned Skies - Darkening of the Wood_](#session-2---_poisoned-skies---darkening-of-the-wood_)
-- [Session 3 - _Poisoned Skies - Darkening of the Wood_](#session-3---_poisoned-skies---darkening-of-the-wood_)
-- [Session 4 - _Poisoned Skies - Temple of the Snake God_](#session-4---_poisoned-skies---temple-of-the-snake-god_)
-- [Session 5 - _Poisoned Skies - Temple of the Snake God_](#session-5---_poisoned-skies---temple-of-the-snake-god_)
-- [Session 6 - _Poisoned Skies - Interim_](#session-6---_poisoned-skies---interim_)
-- [Session 7 - _Poisoned Skies - Grimhold_](#session-7---_poisoned-skies---grimhold_)
-- [Session 8 - _Poisoned Skies - Grimhold_](#session-8---_poisoned-skies---grimhold_)
-- [Session 9 - _Poisoned Skies - Dawnbreaker - _The Mountain Door__](#session-9---_poisoned-skies---dawnbreaker---_the-mountain-door__)
-- [Session 10 - _Poisoned Skies - Dawnbreaker - _The Mountain Door__](#session-10---_poisoned-skies---dawnbreaker---_the-mountain-door__)
-- [Session 11 - _Poisoned Skies - Dawnbreaker _Glitterhame__](#session-11---_poisoned-skies---dawnbreaker-_glitterhame__)
-- [Session 12 - _Poisoned Skies - Dawnbreaker _The Foundry__](#session-12---_poisoned-skies---dawnbreaker-_the-foundry__)
-- [Session 13 - _Poisoned Skies - Dawnbreaker _The Black Lake__](#session-13---_poisoned-skies---dawnbreaker-_the-black-lake__)
-- [Session 14 - _Weald of Woe - _Whispers by the Sea__](#session-14---_weald-of-woe---_whispers-by-the-sea__)
-- [Session 15 - _Weald of Woe - _Whispers by the Sea__](#session-15---_weald-of-woe---_whispers-by-the-sea__)
-- [Session 16 - _Weald of Woe - _Leilon__](#session-16---_weald-of-woe---_leilon__)
-- [Session 17 - _Weald of Woe - _Leilon__](#session-17---_weald-of-woe---_leilon__)
-- [Session 18 - _Weald of Woe - _Mystic Reverie__](#session-18---_weald-of-woe---_mystic-reverie__)
-- [Session 19 - _Weald of Woe - Mystic Reverie_](#session-19---_weald-of-woe---mystic-reverie_)
-- [Session 20 - _Weald of Woe - Mystic Reverie_](#session-20---_weald-of-woe---mystic-reverie_)
-- [Session 21 - _Weald of Woe - Mystic Reverie_](#session-21---_weald-of-woe---mystic-reverie_)
-- [Session 22 - _Weald of Woe - Phantom's Embrace_](#session-22---_weald-of-woe---phantoms-embrace_)
-- [Session 23 - _Weald of Woe - Phantom's Embrace_](#session-23---_weald-of-woe---phantoms-embrace_)
-- [Session 24 - _Weald of Woe - Phantom's Embrace_](#session-24---_weald-of-woe---phantoms-embrace_)
-- [Session 24 - _Weald of Woe - Phantom's Embrace_](#session-24---_weald-of-woe---phantoms-embrace_)
-- [Session 25 - _Weald of Woe - Phantom's Embrace - Epilogue_](#session-25---_weald-of-woe---phantoms-embrace---epilogue_)
-- [Session 26 - _Weald of Woe - Whispers by the Sea_](#session-26---_weald-of-woe---whispers-by-the-sea_)
 
 # Session 0
 All of the technical and rules details are here
 [session 0 document](https://docs.google.com/document/d/1cXXC0yDAo55sgE_0qbyLjsV7GvXNz2fN0aEy5-_713w/edit?usp=sharing)
 
-# Table of Contents:
-- <a href="#session-1---_poisoned-skies---darkening-of-the-wood_">Session 1 - _Poisoned Skies - Darkening of the Wood_</a>
-- <a href="#session-2---_poisoned-skies---darkening-of-the-wood_">Session 2 - _Poisoned Skies - Darkening of the Wood_</a>
-- <a href="#session-3---_poisoned-skies---darkening-of-the-wood_">Session 3 - _Poisoned Skies - Darkening of the Wood_</a>
-- <a href="#session-4---_poisoned-skies---temple-of-the-snake-god_">Session 4 - _Poisoned Skies - Temple of the Snake God_</a>
-- <a href="#session-5---_poisoned-skies---temple-of-the-snake-god_">Session 5 - _Poisoned Skies - Temple of the Snake God_</a>
-- <a href="#session-6---_poisoned-skies---interim_">Session 6 - _Poisoned Skies - Interim_</a>
-- <a href="#session-7---_poisoned-skies---grimhold_">Session 7 - _Poisoned Skies - Grimhold_</a>
-- <a href="#session-8---_poisoned-skies---grimhold_">Session 8 - _Poisoned Skies - Grimhold_</a>
-- <a href="#session-9---_poisoned-skies---dawnbreaker---_the-mountain-door__">Session 9 - _Poisoned Skies - Dawnbreaker - _The Mountain Door__</a>
-- <a href="#session-10---_poisoned-skies---dawnbreaker---_the-mountain-door__">Session 10 - _Poisoned Skies - Dawnbreaker - _The Mountain Door__</a>
-- <a href="#session-11---_poisoned-skies---dawnbreaker-_glitterhame__">Session 11 - _Poisoned Skies - Dawnbreaker _Glitterhame__</a>
-- <a href="#session-12---_poisoned-skies---dawnbreaker-_the-foundry__">Session 12 - _Poisoned Skies - Dawnbreaker _The Foundry__</a>
-- <a href="#session-13---_poisoned-skies---dawnbreaker-_the-black-lake__">Session 13 - _Poisoned Skies - Dawnbreaker _The Black Lake__</a>
-- <a href="#session-14---_weald-of-woe---_whispers-by-the-sea__">Session 14 - _Weald of Woe - _Whispers by the Sea__</a>
-- <a href="#session-15---_weald-of-woe---_whispers-by-the-sea__">Session 15 - _Weald of Woe - _Whispers by the Sea__</a>
-- <a href="#session-16---_weald-of-woe---_leilon__">Session 16 - _Weald of Woe - _Leilon__</a>
-- <a href="#session-17---_weald-of-woe---_leilon__">Session 17 - _Weald of Woe - _Leilon__</a>
-- <a href="#session-18---_weald-of-woe---_mystic-reverie__">Session 18 - _Weald of Woe - _Mystic Reverie__</a>
-- <a href="#session-19---_weald-of-woe---mystic-reverie_">Session 19 - _Weald of Woe - Mystic Reverie_</a>
-- <a href="#session-20---_weald-of-woe---mystic-reverie_">Session 20 - _Weald of Woe - Mystic Reverie_</a>
-- <a href="#session-21---_weald-of-woe---mystic-reverie_">Session 21 - _Weald of Woe - Mystic Reverie_</a>
-- <a href="#session-22---_weald-of-woe---phantoms-embrace_">Session 22 - _Weald of Woe - Phantom's Embrace_</a>
-- <a href="#session-23---_weald-of-woe---phantoms-embrace_">Session 23 - _Weald of Woe - Phantom's Embrace_</a>
-- <a href="#session-24---_weald-of-woe---phantoms-embrace_">Session 24 - _Weald of Woe - Phantom's Embrace_</a>
-- <a href="#session-24---_weald-of-woe---phantoms-embrace_">Session 24 - _Weald of Woe - Phantom's Embrace_</a>
-- <a href="#session-25---_weald-of-woe---phantoms-embrace---epilogue_">Session 25 - _Weald of Woe - Phantom's Embrace - Epilogue_</a>
-- <a href="#session-26---_weald-of-woe---whispers-by-the-sea_">Session 26 - _Weald of Woe - Whispers by the Sea_</a>
+## Table of Contents
+- [Session 1 - _Poisoned Skies - Darkening of the Wood_](#session-1---poisoned-skies---darkening-of-the-wood)
+- [Session 2 - _Poisoned Skies - Darkening of the Wood_](#session-2---poisoned-skies---darkening-of-the-wood)
+- [Session 3 - _Poisoned Skies - Darkening of the Wood_](#session-3---poisoned-skies---darkening-of-the-wood)
+- [Session 4 - _Poisoned Skies - Temple of the Snake God_](#session-4---poisoned-skies---temple-of-the-snake-god)
+- [Session 5 - _Poisoned Skies - Temple of the Snake God_](#session-5---poisoned-skies---temple-of-the-snake-god)
+- [Session 6 - _Poisoned Skies - Interim_](#session-6---poisoned-skies---interim)
+- [Session 7 - _Poisoned Skies - Grimhold_](#session-7---poisoned-skies---grimhold)
+- [Session 8 - _Poisoned Skies - Grimhold_](#session-8---poisoned-skies---grimhold)
+- [Session 9 - _Poisoned Skies - Dawnbreaker - _The Mountain Door__](#session-9---poisoned-skies---dawnbreaker---the-mountain-door)
+- [Session 10 - _Poisoned Skies - Dawnbreaker - _The Mountain Door__](#session-10---poisoned-skies---dawnbreaker---the-mountain-door)
+- [Session 11 - _Poisoned Skies - Dawnbreaker _Glitterhame__](#session-11---poisoned-skies---dawnbreaker-glitterhame)
+- [Session 12 - _Poisoned Skies - Dawnbreaker _The Foundry__](#session-12---poisoned-skies---dawnbreaker-the-foundry)
+- [Session 13 - _Poisoned Skies - Dawnbreaker _The Black Lake__](#session-13---poisoned-skies---dawnbreaker-the-black-lake)
+- [Session 14 - _Weald of Woe - _Whispers by the Sea__](#session-14---weald-of-woe---whispers-by-the-sea)
+- [Session 15 - _Weald of Woe - _Whispers by the Sea__](#session-15---weald-of-woe---whispers-by-the-sea)
+- [Session 16 - _Weald of Woe - _Leilon__](#session-16---weald-of-woe---leilon)
+- [Session 17 - _Weald of Woe - _Leilon__](#session-17---weald-of-woe---leilon)
+- [Session 18 - _Weald of Woe - _Mystic Reverie__](#session-18---weald-of-woe---mystic-reverie)
+- [Session 19 - _Weald of Woe - Mystic Reverie_](#session-19---weald-of-woe---mystic-reverie)
+- [Session 20 - _Weald of Woe - Mystic Reverie_](#session-20---weald-of-woe---mystic-reverie)
+- [Session 21 - _Weald of Woe - Mystic Reverie_](#session-21---weald-of-woe---mystic-reverie)
+- [Session 22 - _Weald of Woe - Phantom's Embrace_](#session-22---weald-of-woe---phantoms-embrace)
+- [Session 23 - _Weald of Woe - Phantom's Embrace_](#session-23---weald-of-woe---phantoms-embrace)
+- [Session 24 - _Weald of Woe - Phantom's Embrace_](#session-24---weald-of-woe---phantoms-embrace)
+- [Session 24 - _Weald of Woe - Phantom's Embrace_](#session-24---weald-of-woe---phantoms-embrace)
+- [Session 25 - _Weald of Woe - Phantom's Embrace - Epilogue_](#session-25---weald-of-woe---phantoms-embrace---epilogue)
+- [Session 26 - _Weald of Woe - Whispers by the Sea_](#session-26---weald-of-woe---whispers-by-the-sea)
 
 # Session 1 - _Poisoned Skies - Darkening of the Wood_
 2023-07-07
