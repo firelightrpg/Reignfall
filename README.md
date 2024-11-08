@@ -25,11 +25,11 @@ All of the technical and rules details are here
 - [Session 19 - _Weald of Woe - Mystic Reverie_](#session-19---_weald-of-woe---mystic-reverie_)
 - [Session 20 - _Weald of Woe - Mystic Reverie_](#session-20---_weald-of-woe---mystic-reverie_)
 - [Session 21 - _Weald of Woe - Mystic Reverie_](#session-21---_weald-of-woe---mystic-reverie_)
-- [Session 22 - _Weald of Woe - Phantom's Embrace_](#session-22---_weald-of-woe---phantom's-embrace_)
-- [Session 23 - _Weald of Woe - Phantom's Embrace_](#session-23---_weald-of-woe---phantom's-embrace_)
-- [Session 24 - _Weald of Woe - Phantom's Embrace_](#session-24---_weald-of-woe---phantom's-embrace_)
-- [Session 24 - _Weald of Woe - Phantom's Embrace_](#session-24---_weald-of-woe---phantom's-embrace_)
-- [Session 25 - _Weald of Woe - Phantom's Embrace - Epilogue_](#session-25---_weald-of-woe---phantom's-embrace---epilogue_)
+- [Session 22 - _Weald of Woe - Phantom's Embrace_](#session-22---_weald-of-woe---phantoms-embrace_)
+- [Session 23 - _Weald of Woe - Phantom's Embrace_](#session-23---_weald-of-woe---phantoms-embrace_)
+- [Session 24 - _Weald of Woe - Phantom's Embrace_](#session-24---_weald-of-woe---phantoms-embrace_)
+- [Session 24 - _Weald of Woe - Phantom's Embrace_](#session-24---_weald-of-woe---phantoms-embrace_)
+- [Session 25 - _Weald of Woe - Phantom's Embrace - Epilogue_](#session-25---_weald-of-woe---phantoms-embrace---epilogue_)
 - [Session 26 - _Weald of Woe - Whispers by the Sea_](#session-26---_weald-of-woe---whispers-by-the-sea_)
 
 # Session 1  - _Poisoned Skies - Darkening of the Wood_
@@ -661,14 +661,13 @@ Another connection to the past – excess paintings were being traded by the Myr
 _And speaking of disappearances, we now know that the Dreadscale Disciples have been kidnapping babies in Leilon, including Ava, Alice’s daughter and taking them to the hags.  And the worst thing – Greensong/Greenbones ATE Ava and replaced her with her own daughter.  OMG.  The only good news about this seems to be that the child for all intents and purposes is still Ava.  She’s supposed to undergo a ritual with Greenbones at age 13 to transform into a hag so she can join the coven.  But alas, Greenbones is dead (and I think Sylvarie was going to burn the bodies.)  We all wrestled with how much, if any of this, to share with Alice.  I think we leave them in peace.  Maybe with Alice’s loving upbringing, Ava will live out a full life as a NOT hag._
 
 _This is going to stay with me for a long time._
->> 
-Things to do:
-•    Find this place Viallis supposedly bought. He’s probably running his activities from there.
-•    Find the abandoned mines where the Doombringer is running his activities.
-•    Stop the supply line of revenant souls between the mines and the Mere of Dead mean, where it seems they are finding the bodies to use.  Somewhere in and between these 2 we should be able to find out why the Doombringer is doing this and stop him.
-•    Check out the items from Saeth and keep/sell/destroy as appropriate.
-•    Check on function/use of the potions and ingredients we found.
-•    Discuss with others maybe setting up a home for us here in Leilon.  Easier to set up defenses, maybe more comfortable, etc.
+## Things to do:
+- Find this place Viallis supposedly bought. He’s probably running his activities from there.
+- Find the abandoned mines where the Doombringer is running his activities.
+- Stop the supply line of revenant souls between the mines and the Mere of Dead mean, where it seems they are finding the bodies to use.  Somewhere in and between these 2 we should be able to find out why the Doombringer is doing this and stop him.
+- Check out the items from Saeth and keep/sell/destroy as appropriate.
+- Check on function/use of the potions and ingredients we found.
+- Discuss with others maybe setting up a home for us here in Leilon.  Easier to set up defenses, maybe more comfortable, etc.
 
 *PS Flankstake seems capable.  And he saved a dog, so he’s in.  I think he’s a monk.  He’s only wearing pants (that may have been due to the baths, we’ll see if more clothes show up later.)  And he’s super muscley.  Maybe he can help me with some strength training.  And he’s looking for his parents.  Maybe we can help.*
 

@@ -10,9 +10,11 @@ headers = re.findall(r"^(# Session \d+ - .+)$", markdown_content, re.MULTILINE)
 # Generate a table of contents
 toc = []
 for header in headers:
-    # Convert header text to link-friendly format
+    # Clean up the title for the link
     title = header.strip("# ")
-    toc.append(f"- [{title}](#{title.replace(' ', '-').lower()})")
+    # Convert the title to a GitHub-friendly anchor link
+    anchor = re.sub(r"[^\w\s-]", "", title).replace(" ", "-").lower()
+    toc.append(f"- [{title}](#{anchor})")
 
 # Join the list to create the final TOC string
 toc_content = "\n".join(toc)
