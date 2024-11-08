@@ -659,7 +659,7 @@ Off to the cellar, key in hand, the party discovered an entrance to the mines, u
 
 What else lies in the mines? How are these Mykulite clergy tied to the Dreadscale Disciples? And what of Viallis' ties to this?
 
-# Session 24 - _Weald of Woe - Whispers by the Sea_
+# Session 24 - _Weald of Woe - Phantom's Embrace_
 2024-09-26
 
 (*Barricade's claw writing*)
@@ -678,3 +678,54 @@ As Ulthane attempted to vanish into the shadows, casting a spell to escape the p
 What other horrors lie within the mines? How deep does the Myrkulite clergy’s corruption run? And what sinister ties bind them to Lord Viallis and the Dreadscale Disciples? The answers await, as the story unfolds…
 
 Next time, on this thrilling Dungeons & Dragons adventure…
+
+# Session 25 - _Weald of Woe - Phantom's Embrace - Epilogue_
+2024-10-04
+
+## Ulthane's Defeat
+The party, emboldened by their recent victory, ventured deeper into the grim stronghold of the gray ones. Having just vanquished their feared leader, they felt a mix of exhilaration and trepidation as they began to ransack the vile place. Among the debris, they uncovered the shattered skull of the demilich, a haunting relic of power whose name had long been lost to history, now ominously referred to as Darkheart. The remnants whispered of ancient sorceries and a dark legacy that had been sealed away.
+
+## Death blow
+As they explored the remains of Ulthane's lair, the party reflected on the formidable foe they had just faced. Despite his menacing reputation, Ulthane had proven unprepared for the lightning assault that had caught him off guard, sealing his fate in a flurry of electric energy. It was Steward, grappling with the challenges of navigating a treacherous chasm, who turned his predicament into an unexpected advantage. In a moment of clarity amidst his frustration, he found himself in the perfect position to deal the killing blow to the notorious Doombringer of Hoare.
+
+## Promising Lead
+With Ulthane's defeat, the atmosphere shifted; the air felt charged with unfulfilled desires and lost ambitions. In the aftermath of the battle, the party discovered a collection of treasures: a dusty ledger filled with cryptic notes, a journal that hinted at the tormented past of its writer, and memories of a tongueless servant girl—forgotten and lost to time—who had once inhabited the body of Barricade. Her story rushed back into focus, a poignant reminder of the suffering that had taken place within the walls of the Yellowcrest Manor.
+
+## Familiar little person
+Among the treasures, Steward saw an opportunity in the shattered skull of Darkheart. Harnessing the essence of the demilich, he expertly used it to fuel the creation of a new homunculus, breathing life into the remnants of darkness and infusing his creation with arcane power. The air crackled with the energy of his work, marking a significant step in his journey as an artificer. What power might the creation receive from the fractured soul gem? Only time will tell. 
+
+## Vengence
+Yet, despite the allure of power offered by the Retribution of the Ancients, the party's motivations were deeper and more personal. The discovery of Ulthane's map, which marked the location of ancient ruins north of Leilon, revealed the residence of the foul rites associated with the tome. Fueled by a desire for justice, the party cared less about the book's power and more about the tangible opportunity to avenge the dead servant girl and the family she had once cared for. Their resolve hardened; they would confront the darkness that had claimed her life and ensure that such horrors would not befall anyone else.
+
+## The Swords of Leilon
+As word spread throughout Leilon, the townsfolk spoke of the party with reverence, referring to them as the Swords of Leilon, a namesake of former heroes who had once protected the realm. This newfound renown brought with it a sense of duty and expectation: would they live up to the legacy of those who came before them? With this in mind, the party set out toward the ruins, ready to face whatever dangers awaited them and to bring closure to the memories that haunted them.
+
+## Base of Operations
+Meanwhile, the disaffected fingerbones joined the employ of the troupe, committing to "fix up" the old Hornraven estate, in an effort to provide the heroes with a base of operations.
+
+## Ulthane's journal 
+> 7th Night of the Waning Moon, Year of Shadows
+> 
+> Viallis... His name festers in my mind, a persistent itch I cannot yet scratch. He hoards The Retribution of the Ancients, the very tome that calls to me from across the veil. It should be mine—the key to unlocking the true power of death itself. I can feel its dark whispers, like talons at the edge of my thoughts, urging me to claim it. And I will.
+> 
+> But for now, I have other tools at my disposal. The hags... repulsive creatures, yet useful in their own way. Their paintings—those grotesque works that imprison souls—are a marvel of dark magic. I care little for their artistry or their petty ambitions, but the energy those trapped souls provide is... exquisite. Each soul, twisted and bound within the canvas, fuels my necromancy. With the shattered skull of the demilich as my conduit, I have raised an army of the dead that grows stronger with each new soul I take.
+>
+> Even the Dreadscale Disciples are willing to pay for a piece of that power. Ungrix and his serpent-blooded sycophants crave an undead force to bolster their own twisted plans, though they are careful not to reveal the full extent of their schemes. I care not. The exchange benefits me, and that is all that matters. Their gold flows into my coffers, and in return, I sell them my undead—a fair trade, for now.
+> 
+> The Dreadscale Disciples believe they are clever, manipulating the hags for their own ends. Let them think so. Their plans to raise dracoliches with their “sacred horn” are of no consequence to me. They whisper in riddles and hide behind their snake-tongued ambitions, but it does not concern me. Let them have their dragons—I have the power of the ancient dead at my command. Their schemes are but distractions from the true prize.
+> 
+> As for Viallis, he has no idea how close I am to his precious lair. My spies move quietly, unraveling his hiding place. He believes himself untouchable, isolated in his ruin, clutching The Retribution of the Ancients like a miser hoarding gold. But once I have that book, I will tear his world apart. I will claim the power he so foolishly believes he can control, and I will show him what it truly means to bend the dead to one’s will.
+> 
+> The hags, the Disciples, the dragons—all of them are pawns, mere tools for my ascension. Only I, Ulthane, will stand at the pinnacle. My army grows with each soul taken, with each corpse I raise. Soon, Viallis will fall, and with The Retribution in my hands, I will have the power to reshape the world as I see fit.
+> 
+> I do not care for their ambitions. I care only for mine.
+> 
+> Soon.
+> 
+> —Ulthane
+
+The party infiltrated the ruins to find foul creatures, spectators, beholder-kin whose bite was a large toothy maw with eyestalks that diminished them in various arcane ways. Yet, they defeated several disciples along with the floating eye beasts - and Lulu proceeded to drink from their fountain... 
+
+What will happen next?!?!
+
+![image]9https://images-ext-1.discordapp.net/external/aXVJbWMhbAdnaYakFJlDmD8KWY6vSDEyawVSyo1kskU/%3Fid%3D1QV-1vhMEHzTsDproWSvmnqm_Tg5rhClY%26sz%3Dw3000/https/drive.google.com/thumbnail?format=webp&width=1167&height=1200)
