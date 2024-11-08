@@ -4,6 +4,7 @@ All of the technical and rules details are here
 [session 0 document](https://docs.google.com/document/d/1cXXC0yDAo55sgE_0qbyLjsV7GvXNz2fN0aEy5-_713w/edit?usp=sharing)
 
 ## Session 1 
+### Poisoned Skies - Darkening of the Wood
 2023-07-07
 
 The players met in the marketplace of Daggerford. Hinan was recovering from some wounds, moving from a house in the eastern shanties toward the smiths on Tanner Way. Steward and Rick were working at a consignment stall. Eg, Theren and Mara were perusing the markets, with Eg seeking out woolen cloaks. 
@@ -48,6 +49,7 @@ Cara is a young woman with short, dark hair and piercing brown eyes. She is of a
 Her crew has been asking around and offering a reward for her safe return.
 
 ## Session 2
+### Poisoned Skies - Darkening of the Wood
 2023-07-26
 
 The players continued following the lead given to Mara by the fairy in the market and headed into the Blackbranch forest. 
@@ -75,6 +77,7 @@ The party lit a spider web on fire, that attracted two spider swarms, a handful 
 What lies ahead?
 
 ## Session 3
+### Poisoned Skies - Darkening of the Wood
 2023-08-09
 
 After delving further into the spiders' underground lair, on the upper west side of the cavern is a collection of cocooned bodies, bones and refuse, demonstrating these spiders answer nature’s call where they feed. Upon inspection, one of the bodies wears a pendant adorned with a stylized dragon symbol. Amongst the refuse are the remains of several used poison kits. 
@@ -90,6 +93,7 @@ After parlaying with the clutter queen, trading her life for the coccon, the par
 The party headed back toward Daggerford, and everyone gained a level (2). On the way back, they tussled with another group of nobles who were in the process of summary execution, again, of a young adult if not a child.
 
 ## Session 4
+### Poisoned Skies - Temple of the Snake God
 2023-08-18
 
 The party returned returned Hallis, the young adult rescued from the Liam's Hold Retinue, to his home in the outlying farms of Daggerford and headed into the city proper, with an eye out for the wanted posters. 
@@ -111,6 +115,7 @@ Near the ogre's death, after killing or routing the goblins and bloodying the og
 Out of the ruins of a nearby tower came two more large creatures, one wielding a massive ballista. After a somewhat grueling battle, the party sheltered in the ruined tower for a much needed rest.
 
 ## Session 5
+### Poisoned Skies - Temple of the Snake God
 2023-09-21
 
 The party entered the structure under the tower after resting at the ground level. It was clear the ruins were only recently occupied by the ogre-kin, and the previous inhabitants had perished long ago, due to a cataclysmic event, leveling the structure above ground and sealing it's inhabitants to suffer slow and agonizing deaths. 
@@ -118,3 +123,15 @@ The party entered the structure under the tower after resting at the ground leve
 The party investigated the structure, defeated several ogres, rescued hostages and discovered a chamber with ritual wards for a serpent talisman. The item was retrieved successfully by following the rituals depicted in the murals.
 
 The party also befriended a giant boar, serving the ogres. 
+
+## Session 6
+### Poisoned Skies - Inteterim
+2023-10-12
+
+The party returned the hostages, Rhys, an influential trader, from house Merriweather, Eira Rivenwood, an herbalist and mother figure to the other hostages, Gwenneth, a teenage girl with surprising resilience,  who the ogre leader attempted to use as human shield, Aldric, a hunter from Daggerford and Eldra, a botanist determined to escape.
+
+ After returning the rescued folk to their various places around the Delimbyr vale, the party encountered a distressed rancher, Fineas, suspicious of wolves after losing livestock, and a sage named Emyr, overly excited about the prospect of a long lost fort, and discovering it's secrets. 
+
+The party set up watch at Fineas' ranch, and discovered some poisoned plants. Theren used his Primeval Awareness and detected aberrations, dragons, fey, fiends and undead within range. 
+
+After un uneventful evening, the party elected to follow Emyr's direction and headed to the region between the Blackbranch and Blightwood forests.
