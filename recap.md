@@ -539,4 +539,56 @@ The third floor was trapped by a glyph and is a multi person bedroom, with three
 
 Areas of the temple that have been explored: the grounds, lobby, lounge, garden, bath and hot spring, kitchen (a little), treatment rooms (Dusk), storage closet, shrine and tower. The only unexplored areas are the guest rooms. Some of the areas were only explored with a cursory glance.
 
+![image](https://github.com/user-attachments/assets/ffd5107c-c2fe-4a1d-9f71-fa6f2c85cc71)
 
+# Session 20 - _Weald of Woe - Mystic Reverie_
+2024-06-10
+
+## All hell breaks loose
+The party continued their investigations, ending the day taking up the offer to sleep in the guest quarters. During the night, Seraphina was discovered skulking about but otherwise, she seemed harmless enough, and interested in leaving. 
+
+The next morning, Dusk was noticed coming out of his quarters and the party briefly spoke with him. 
+
+Dusk mentioned he located and entered a portal in Waterdeep, just escaping a bout of blue flame as he entered. Fortunately, he did not bring the plague with him.
+
+The astute Steward recognized the spellplauge hasn't been around for 100 years, hinting at time displacement in Almare. He seemed he had more tell, but the party was a bit guarded after recent events to share too much. Nonetheless, he put his shortsword and hand crossbow in his backpack.
+
+
+After entering the lobby, Lulu noticed a disembodied eye disguised in the chandelier. She took a shot at it, only for Saeth to transform into a fiendish creature, with humanoid and fiendish features, red skin and black leathery wings. A fight ensued with Lulu and Steward while Barricade and Eg started heading over. Lulu kept singular focus on the eye and with advantage from Steward's Silvery Barbs, used to thwart a mighty spear blow from Saeth, Lulu's aim was true and destroyed the eye.
+
+![image](https://github.com/user-attachments/assets/22fd2292-5d61-4c35-9de7-7002397cb521)
+
+(*Lulu’s Journal*)
+
+_Barricade made it back safely, minus a brush with acid (we should watch out for that later), and we made it back into the temple without drawing too much attention.  Retiring to the baths for some privacy allowed us all to share everything we’d learned so far.  Barricade found the jackpot, hundreds of paintings stacked along the walls in what appears to be a bedroom, albeit disgusting by his description.  We have to assume this is the home of the 3 proprietors, and the condition of the room just lends more weight to the assumption they are more than likely fiend or devil of some kind.  There are guards and silent servants in the tower.  Talking with Cyrena has changed my mind about approaching Saeth, trying to turn him against his employers.  Also, her healing waters can cure some conditions but are not able to remove curses.  We’ve reluctantly agreed to take to our assigned rooms for the night.  Steward has set up an alarm, but I’m taking my own precautions, and so it seems is Barricade.  Eg will be watching over Cyrena in the bathhouse._
+
+_Not much sleep as the suspicious Serafina tried to sneak into my room, likely to steal what she could.  Learned some disturbing news – she was also brought here by looking into a mirror she found while “laying low” in some guy’s house in Neverwinter.  She claims to have been here a few weeks but seems a bit unsure._
+
+_P.S.  It's morning and we’ve had a chance to approach some others – Dusk was also drawn here through a mirror, but details in his story have led Steward to believe he’s been here since the time of the Spellplague!  He also seems unaware of how long he’s been here (“a couple of months”.)  And Stoth, the merc, via mirror in a shop in Baldur’s Gate.  He seems to have come from the time just after the beacon had been destroyed in Leilon.  All 3 may be possible allies against the proprietors, Dusk is the most promising with sword and crossbow ready.  Stoth wants money.  And insists on being naked in the baths._
+
+_Found out that the proprietors do indeed create the paintings and that all 3 are needed to make one.  Are they Demons?  Fiends?  Witches?  We were unable to prevent one of the guests from eagerly following them to have his portrait made.  This is probably our best chance, with the 3 preoccupied.  Fingers crossed._
+
+_Still so many questions: What will happen to the portraits’ subjects if/when we destroy them?  Is the 3-part process the key to destroying them?  How will we get back to our own place?  HOW LONG HAVE WE REALLY BEEN HERE?_
+
+# Session 21 - _Weald of Woe - Mystic Reverie_
+2024-06-24
+
+Players defeated Saeth in his cambion form. Found Sylvarie had turned most of the servants to stone and defeated the gargoyle. 
+Entered the tower to find the hags had murdered Prader, the half-drow who accompanied them to get a painting, evidently in a rage after losing their sight! The keepers attempted to flee the complex with a bunch of the paintings, but were discovered and taken capture and locked in the changing rooms. All the paintings the party could get their hands on were destroyed using the healing waters of the bath. 
+
+*What happened to Alice and Ava?*
+*What are the keepers doing here?*
+*What happens to the ones cursed by the paintings after the party destroy them if they are still alive?*
+*What happens to the ones cursed by the paintings after the party destroy them if they are dead?*
+*Is Sylvarie free?*
+
+# Session 22 - _Weald of Woe - Phantom's Embrace_
+2024-07-22
+
+The adventurers, having destroyed the hags and defeated the dreadscale disciples learned of Ava's gruesome ordeal, but determined the death of Greensong (greenbones) meant Ava would live out the rest of her life ordinarily, perhaps Fey-Touched. They also met Sylvarie in her true form and learned a bit more of the history of Almare and were given a hand mirror, useable once per tenday, that will allow the party to travel to Almare and utilize the place for rest and recuperation. In the bath area, they also met a newcomer to Almare, Flankstake, a half-orc, Way of the Open Hand monk with a mysterious backstory...
+
+*The product of an unsanctioned union, the child was abandoned and left for dead at birth. Discovered by monks and taken in to the monastery, the child was trained in the martial arts. The child's parentage always remains a lingering question and drives the character's wanderings.*
+
+After travelling back to Leilon, through the portal, they discovered trouble near the gates. A mob of undead was headed toward the gate and were in hot pursuit of a beloved dog. After dealing with the mob, the players were approached by an Acolyte of Myrkul.
+
+![image](https://images-ext-1.discordapp.net/external/d_ObInf4LR9bYnV1a1q1Of3xhfAmd_mv-jjnvbhygo8/%3Fsrc%3Dhttps%253A%2F%2Fdrive.google.com%2Fuc%253Fid%253D1NdKrOur0Z-DnmROVBx1W2Hnw9JGqgGhO%2523.png/https/imgsrv.roll20.net?format=webp&width=288&height=360)
