@@ -592,3 +592,89 @@ The adventurers, having destroyed the hags and defeated the dreadscale disciples
 After travelling back to Leilon, through the portal, they discovered trouble near the gates. A mob of undead was headed toward the gate and were in hot pursuit of a beloved dog. After dealing with the mob, the players were approached by an Acolyte of Myrkul.
 
 ![image](https://images-ext-1.discordapp.net/external/d_ObInf4LR9bYnV1a1q1Of3xhfAmd_mv-jjnvbhygo8/%3Fsrc%3Dhttps%253A%2F%2Fdrive.google.com%2Fuc%253Fid%253D1NdKrOur0Z-DnmROVBx1W2Hnw9JGqgGhO%2523.png/https/imgsrv.roll20.net?format=webp&width=288&height=360)
+
+*A cultist, Jebil wears a robe with the hallmark rope bones of Myrkul.
+
+While procuring supplies, Jebil drops cryptic phrases or allude to rituals, mentioning terms associated with the Cult of Myrkul, though trying to conceal it in casual conversation. 
+
+Jebil displays signs of unease or anxiety, constantly glancing around as if expecting trouble. This could suggest a fear of being discovered or a general discomfort with their current actions.*
+
+## The Shattered Skull of a Demilich
+*Ages ago, a powerful demilich, the darkheart, once a feared entity in the region, was vanquished by legendary heroes, the Swords of Leilon. The demilich and its phylactery were shattered upon its defeat, but the skull retained one soul gem with residual necromantic energies and fragments of the demilich's essence.*
+
+*In Leilon, there are Myrkulyte clergy that work with the other faiths, serving those in need of hospice, funeral and burial. They don’t have a church propper in Leilon, but are largely tolerated as they are self-sufficient, taking fees as executors and serving the poor without compensation.*
+
+*However, six months ago, a revenant doombringer of Hoar, Ulthane Andras, “Aptrgangr (again-walker),” infiltrated their ranks and rose to command them. He allows them to continue their services, but has been searching the surroundings for a suitable base of operations.*
+
+*During this search, Ulthane stumbled upon an unmarked tomb, the final resting place of the darkheart, after being slain by the Swords of Leilon. However, in one last act of revenge, he bound their souls to this plane. The Swords cast seal on the tomb, but its magic has since waned. Ulthane broke the chains and entered the tomb. Within he found the shattered skull of a demilich.*
+
+*Ulthane brought them to an abandoned, collapsed mine outside Leilon, where he ordered the clerics to excavate an entrance, hoping to find remains to harness the lingering necromantic energies of the skull. The mine was full of miners trapped by the collapse and they have determined that a ritual sacrifice empowers the demilich’s remnants to animate and control the dead.*
+
+*The first few victims were kidnapped from Leilon, but after sacrificing a dragon initiate, they were discovered by the Dreadscale Disciples. Instead of conflict, the Dreadscale Disciples established a system of trade. They would bring souls to the gray ones in trade for the undead they create. To avoid bringing suspicion on the operation, they move the undead to the Mere of Dead Men hours before dawn, east around Leilon.*
+
+*Jebil is a loyal Myrkulite, but feels that Ulthane is leading them away from their primary mission, easing the path to death. He knows the way to the manor near the mines. He doesn't know how to get into the mines, but knows Ulthane's followers come and go from the manor.*
+
+(*LULU'S JOURNAL*)
+_It feels like a month since I’ve written!
+What a long day, and a weird one to be honest.  Highlights:
+We’re alive and mostly unharmed (nothing a good night’s rest can’t help.)
+We picked up a new friend (I hope). Flankstake was an accidental guest at the Restful Lily, and we found him taking in the waters.  I think we woke him up with our ruckus.
+We defeated the 3 HAGS (I know Da, you told me to never cross paths with one, but it couldn’t be helped!)
+Paintings destroyed, and souls (living and dead) set free.
+Sylvarie restored and Almare is beginning to return to its former beauty.
+Sylvarie gave us a mirror portal so we can visit anytime!
+Forgot to mention, Saeth was a cambion (we defeated him) and destroyed the Hags’ Eye.
+Made it back to Leilon without any lost time (whew!) only to thwart a hoard of undead aiming for the gate into the town._
+
+_More devious cultist activity it seems – we stopped some thieves attempting to abscond with some of the paintings made by the hags.  They are Dreadscale Disciples (a sect of the Keepers of the Sacred Horn.) Remember them from a while back?  They were taking the paintings to trade as “soul coins” to the Myrkulites in Leilon.  Just, ugh.  We found out after getting back to Leilon that the Myrkulites have a new leader, a revenant Doombringer (not sure if I heard a name) who’s kind of changed their mission of overseeing the business of death and the dead into one of collecting souls.  The Doombringer has been using the remnant life-force from the skull of the demilich Darkheart to use the souls from the paintings (and from other dead) to form some sort of undead army.  For what purpose???
+Another connection to the past – excess paintings were being traded by the Myrkulites to the followers of Lord Viallis.  Lord Viallis has followers?  In Leilon??  So we really need to follow up with this.  What is he the leader of, what about his book Retribution of the Ancients, and why are they collecting free souls (via the paintings)?  Are they behind the disappearances in Leilon?_
+
+_And speaking of disappearances, we now know that the Dreadscale Disciples have been kidnapping babies in Leilon, including Ava, Alice’s daughter and taking them to the hags.  And the worst thing – Greensong/Greenbones ATE Ava and replaced her with her own daughter.  OMG.  The only good news about this seems to be that the child for all intents and purposes is still Ava.  She’s supposed to undergo a ritual with Greenbones at age 13 to transform into a hag so she can join the coven.  But alas, Greenbones is dead (and I think Sylvarie was going to burn the bodies.)  We all wrestled with how much, if any of this, to share with Alice.  I think we leave them in peace.  Maybe with Alice’s loving upbringing, Ava will live out a full life as a NOT hag._
+
+_This is going to stay with me for a long time._
+>> 
+Things to do:
+•    Find this place Viallis supposedly bought. He’s probably running his activities from there.
+•    Find the abandoned mines where the Doombringer is running his activities.
+•    Stop the supply line of revenant souls between the mines and the Mere of Dead mean, where it seems they are finding the bodies to use.  Somewhere in and between these 2 we should be able to find out why the Doombringer is doing this and stop him.
+•    Check out the items from Saeth and keep/sell/destroy as appropriate.
+•    Check on function/use of the potions and ingredients we found.
+•    Discuss with others maybe setting up a home for us here in Leilon.  Easier to set up defenses, maybe more comfortable, etc.
+
+*PS Flankstake seems capable.  And he saved a dog, so he’s in.  I think he’s a monk.  He’s only wearing pants (that may have been due to the baths, we’ll see if more clothes show up later.)  And he’s super muscley.  Maybe he can help me with some strength training.  And he’s looking for his parents.  Maybe we can help.*
+
+# Session 23 - _Weald of Woe - Phantom's Embrace_
+2024-09-06
+
+After defeating the zombie horde, saving a dog and preventing the horde from entering Leilon, the party was approached by Jebil, who shared his concerns about the Myrkulite clergy being led down a different path by a doombringer of Hoar, Ulthane Andras, who discovered the remnants of a demi lich, defeated by the Swords of Leilon many years ago. Ulthane had taken up residence in the abandoned Hornraven estate, the family that ran the mines before the Spell Plague. 
+
+The party explored the main floor of the home, wary after awakening spirits trapped in the house. The spirits seemed to be stuck in the past, but also aware of the present, aware that Ulthane was using their estate for dark purpose.
+
+# Session 24 - _Weald of Woe - Phantom's Embrace_
+2024-09-09
+
+The party then delved into the upper floors, triggering a lightning golem attack, exploring the upper floor and attic, until discovering a child's room and a vault. In Anara's room, they discovered her ghost, who evidently hid the cellar key under her pillow. 
+
+Off to the cellar, key in hand, the party discovered an entrance to the mines, under a funerary preparation room. They entered the mines, finding a rift the former miners dug ore from, where they fought several of Ulthane's elite guardians, masters of trickery able to force enemies to do their bidding. It was looking dire, especially for Steward, who had fell into the rift. On seeing his guardians defeated, Ulthane attempted to shrowd himself in darkness and dimension door away from the party. Steward's misfortune became the party's boon, as he was able to stop Ulthane, after his concentration was broken, before managing to escape. 
+
+What else lies in the mines? How are these Mykulite clergy tied to the Dreadscale Disciples? And what of Viallis' ties to this?
+
+# Session 24 - _Weald of Woe - Whispers by the Sea_
+2024-09-26
+
+(*Barricade's claw writing*)
+
+Last time, on the Dungeons & Dragons epic journey…
+
+In the shadowy streets of Leilon, our heroes faced a harrowing encounter with the undead. A zombie horde surged toward the town gates, a beloved dog in peril. In a flash of steel and arcane might, they drove back the fiends, earning the gratitude of Leilon’s wary populace. But there was little time for rest…
+
+Jebil, the anxious acolyte of Myrkul, approached with grave tidings. He spoke of a dark shift within the Myrkulite clergy, led astray by the malevolent Doombringer, Ulthane Andras. Ulthane, a revenant driven by vengeance, had unearthed the shattered remnants of a demilich’s skull, seeking to harness its vile power. His stronghold? The abandoned Hornraven estate, a place shrouded in ghostly whispers and long-forgotten secrets…
+
+With courage in their hearts and steel in their hands, our adventurers ventured into the haunted halls of Hornraven. Spirits stirred as they crossed the threshold, warning of the dark machinations taking root within their ancestral home. Undeterred, the party pushed onward, delving into the upper floors where a lightning golem awaited. Sparks flew and the air crackled with energy as they fought tooth and nail, their resolve unyielding…
+
+At last, they discovered the key to the cellar, held by the restless spirit of a child, Anara. With the key in hand, they descended into the depths, unearthing the path to the mines below. Here, they faced Ulthane’s elite guardians, tricksters capable of bending the will of even the bravest warrior. The battle was fierce, the outcome uncertain, as Steward fell into a dark rift… but it was this fall that proved to be Ulthane’s undoing.
+
+As Ulthane attempted to vanish into the shadows, casting a spell to escape the party’s wrath, Steward—rising from the abyss—broke his concentration, sealing the Doombringer’s fate. But questions still linger like shadows on a moonless night…
+What other horrors lie within the mines? How deep does the Myrkulite clergy’s corruption run? And what sinister ties bind them to Lord Viallis and the Dreadscale Disciples? The answers await, as the story unfolds…
+
+Next time, on this thrilling Dungeons & Dragons adventure…
