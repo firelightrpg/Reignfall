@@ -27,7 +27,6 @@
 - [Session 25 - _Weald of Woe - Phantom's Embrace - Epilogue_](#session-25---_weald-of-woe---phantoms-embrace---epilogue_)
 - [Session 26 - _Weald of Woe - Whispers by the Sea_](#session-26---_weald-of-woe---whispers-by-the-sea_)
 
-
 # Session 0
 All of the technical and rules details are here
 [session 0 document](https://docs.google.com/document/d/1cXXC0yDAo55sgE_0qbyLjsV7GvXNz2fN0aEy5-_713w/edit?usp=sharing)
