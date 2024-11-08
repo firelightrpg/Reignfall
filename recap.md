@@ -728,4 +728,4 @@ The party infiltrated the ruins to find foul creatures, spectators, beholder-kin
 
 What will happen next?!?!
 
-![image]9https://images-ext-1.discordapp.net/external/aXVJbWMhbAdnaYakFJlDmD8KWY6vSDEyawVSyo1kskU/%3Fid%3D1QV-1vhMEHzTsDproWSvmnqm_Tg5rhClY%26sz%3Dw3000/https/drive.google.com/thumbnail?format=webp&width=1167&height=1200)
+![image](https://images-ext-1.discordapp.net/external/aXVJbWMhbAdnaYakFJlDmD8KWY6vSDEyawVSyo1kskU/%3Fid%3D1QV-1vhMEHzTsDproWSvmnqm_Tg5rhClY%26sz%3Dw3000/https/drive.google.com/thumbnail?format=webp&width=1167&height=1200)
