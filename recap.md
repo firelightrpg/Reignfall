@@ -187,7 +187,7 @@ Just a reminder - if you see a journal, runes, a scroll or any form of writing, 
 Another reminder - don't forget the short rests! Unless one combat bleeds into another, or there are sentries on patrol, you generally can take a short rest once you've secured your current location.
 
 ## Session 9
-### Poisoned Skies - Dawnbreaker
+### Poisoned Skies - Dawnbreaker - _The Foundry_
 2023-11-17
 
 The party finished searching Grimhold, the dwarven keep previously inhabited by goblinoids lead by a barghest and headed back to Daggerford, where they were greeted as heroes by Captain Arayndar Delimbiyr. In response to your many accomplishments, and the ongoing troubles with the nobles, the captain requested you attend a council of nobles, being held at Anteos Manner.
@@ -215,7 +215,7 @@ Explored so far...
 ![image](https://github.com/user-attachments/assets/bee68927-2fc5-4541-a5ce-e34a1fbade2a)
 
 ## Session 10
-### Poisoned Skies - Dawnbreaker
+### Poisoned Skies - Dawnbreaker - _The Foundry_
 2023-12-07
 
 We pushed our way deeper inside the cave, taking out several lizardmen along the way to a rope bridge.
@@ -230,7 +230,7 @@ Party went ahead and encountered Lizard Queen and her attendants. Crazy battle e
 Afterwards, Nelix told us how she was a cutpurse who ended up finding and raising the last egg of the bronze dragon and is here to kill the acid dragon.
 
 ## Session 11
-### Poisoned Skies - Dawnbreaker _Death from Above_
+### Poisoned Skies - Dawnbreaker _Glitterhame_
 2023-12-26
 
 After defeating the lizardfolk queen, the party descended to the Glitterhame, the former mines for the Forgespire dwarves, a large series of natural caverns in the heart of the Theraldur.
@@ -241,5 +241,8 @@ The party found a key that opened the door on a mold covered skeleton and secure
 
 Beyond the door was a long stair leading to a room with dwarven statues, but it was only briefly examined for enemies and left for after the rest.
 
-![image](https://github.com/user-attachments/assets/65e2ef18-0db0-4abe-bcca-8735f76df802)
+![Death from Above](https://github.com/user-attachments/assets/65e2ef18-0db0-4abe-bcca-8735f76df802)
 
+## Session 11
+### Poisoned Skies - Dawnbreaker _Death from Above_
+2023-12-26
