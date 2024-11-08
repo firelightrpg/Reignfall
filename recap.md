@@ -470,3 +470,33 @@ PS – can all this be simply coincidence? Umaira Shahid’s strange behavior, t
 disappearance/return of Alice & Ava, Viallis, the ghost sightings in Leilon, the Retribution of the
 Ancients, the Dreadscale Disciples????? Too many threads, gotta be related. Meditating isn’t going
 well.*
+
+## Session 18
+### Weald of Woe - _Mystic Reverie_
+2024-05-11
+
+Party perused Leilon, picking up on leads, trying to determine if Umaira was a threat, largely concluding he wasn't aware of his possession. While perusing the Peculiarities Shoppe (Ursten's NOT Aubrey's) a painting of the Swords of Leilon was discoverd and Usrten informed the party they were Aubrey Silverspun, Augusta Krul and Ogri Ninebeards.
+
+After dusk, they split up with Eg and Steward taking the tower's spiral stairs and Lulu and Barricade scaling the scaffolding. Barricade transformed into a cat. Eg and Steward stopped to peruse the library a bit before continuing while Lulu and Barricade seemed to have triggered the ward on the window. After the party gathered on the scaffolding outside the third floor window, the words were read and they entered the blocked off chamber. It was quickly evident this was Thalivar's former bedroom. There were notes, most old, but some more recent, indicating perhaps Umaira, possessed by Thalivar was taking notes here often. Also in the room was a full length mirror, covered with a mourning cloth, which Eg unceremoniously removed to expose a clearly enchanted silver mirror. As one would approach the mirror, it would entice the viewer with flattery and grooming advice, beckoning them to reach into the mirror. While no one was glamoured by the magic, eventually someone touched the surface. A mist rose around and from the mirror and contact with the mirror caused the person to disappear. After some consternation, everyone took the plunge. 
+
+Moments later, everyone arrived in a formerly serene, forested grove, now dark and twisted, with clear signs of recent trimming, maintaining the perimeter of the path. Along the path were several stone carved lilies, serving as sign posts. Closest to the path, the colors are more vibrant and air crisper. with subdued sounds coming from the forest and a loud din of insects. The forest feels both familiar and foreign, serene and dark.
+
+The party followed the path (with some technical issues since John/DM hadn't updated the map in a while...) and appeared before a grand temple and bathhouse in a large grove, with walls and floors of polished stone and finely carved wooden doors, engraved with images of water lilies. The windows displayed abstract signs in stained glass, providing the temple with bright light in a myriad of colors. 
+
+The party proceeded through the main entrance, where bells announced your arrival, but not before Eg had determined through magic that the attendant they were about to meet was an outsider; an aberration, celestial, elemental, fey, fiend, or undead, with strong indications of fiend (technical difficulty, please stand by). A dark-haired man in garish clothes, a large beret with goose feathers, a white, puffy-armed tunic and purple breeches with black stockings came around the main desk, wide eyed and wide-smiled and began lavishing the party with welcomes and compliments and an invitation to take rest at this luxurious bathhouse. 
+
+While the greeter, who introduced himself as Saeth was beckoning the party, someone opened the door to the lounge, seeing servants and several guests as well a slender moon elf with smooth black hair, sparkling eyes and bluish gray skin, Morganna, who also detected as an outsider, but clearly was a beautiful moon elf, possibly with a stronger fey heritage than is normal for an elf. She seemed to be managing the servants and seeing to the guests. The three guests were seated, enjoying the amenities, a well groomed, Waterdhavian half-drow and an injured Baldurian, both carrying themselves as a guard or soldier, and a lithe, youthful halfling who quickly rested her head on her fist, propping her elbow on the table, eyes darting around the room.
+
+(*LULU’S (mental) JOURNAL*)
+
+*Mental notes to add to my journal when I get a chance:
+Steward would probably love to spend a week or two alone in the tower library.
+We figured out how to get inside the “inner sanctum” – clearly Thalivar’s room.
+Shahid’s been writing in Thalivar’s journal AS THALIVAR – I knew there was some kind of possession going on.
+Note – NEVER pull a shroud off a mirror.  Just leave it be.
+I’m so stupid!  What did I think was going to happen when I left Barricade alone with the mirror after Eg disappeared?
+We are not in Leilon anymore.  It feels…fey maybe?  Something is tickling my memory about this situation.
+Appears to be a luxurious spa/bathhouse, lilies everywhere.  Would seem dreamlike if not for the warning bells clanging thunderously in my head.
+Names to remember: Saeth-greeter, dressed like a peacock, fey, maybe even fiend in disguise; Morgana-host/proprietor, moon elf but MORE, likely fey; also a few servants and several other guests.
+No reaction to Viallis name-drop, but definitely knew of Alice and Ava (without admitting it).
+Oh boy, we are being pushed hard to enter the baths.  Probably shouldn’t go in.*
