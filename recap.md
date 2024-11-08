@@ -327,3 +327,146 @@ Although we do have a cult to stop.  More later
 *- Lord Viallis and Lady Maria had two sons, Malik and Janus, and one daughter, Tianna.*
 *- The family owned several tanneries and shoemaking shops in Waterdeep, but most of its wealth was inherited on Maria's side.*
 *- Lord Viallis' closest business associate was an elf named Faerl, who visited Lord Viallis twice a tenday.*
+
+## Session 15
+### Weald of Woe - _Whispers by the Sea_
+2024-03-07
+
+#### Research
+Eg and Pad studied the archives at the Great Library, Lulu and RIck put ears to the ground in the seedy underworld, Reichart toured the temples while Steward gain access to court records and cozied to various nobility, carefully hinting at various indiscretions to loosen lips. _I should have written this sooner - I don't recall exactly what everyone was doing._ In the course of their investigations, the party learned the following. 
+
+- Lord Yellowcrest was away from Waterdeep on business, then returned to find his wife, his sons and daughter, and the manor's four servants brutally murdered. Shocked into a deep depression by the tragedy, Lord Yellowcrest left Waterdeep to be alone with his grief.
+- Rumors seemingly spread by members of the City Guard after investigating the murders hinted at some sort of cult activity, but details of the killings were never revealed. No suspects were ever identified or charged.
+- The Yellowcrest family had a good reputation, with no hint of personal or public impropriety. No one ever accused the grieving Lord Yellowcrest of having any connection to the murders.
+- Research in Waterdeep turns up references in other works to a book whose cover matches Sarah's sketch—a tome called Retribution of the Ancients.
+- Lord Viallis, wanting to get away from talk of his family's death, moved to the newly re-inhabited village of Leilon, a tenday's travel north of Waterdeep, along the Sword Coast.
+
+#### Interviewing the Butler
+While visiting the manor itself, the party learned the following from Arnulf, the current residents' butler. 
+- The manor was previously owned by the Yellowcrest family, most of whom were killed one night.
+- Though full details of the event were never made public, rumor holds that Lady Maria, her three children, and four servants were all stabbed to death, then had their tongues removed.
+- The sole survivor of the family was Lord Viallis, who was allegedly away from the city that day.
+- After the murders, Viallis sold the manor and all his family's possessions, then moved to a small village in the countryside.
+- A few tanneries, leatherworkers' shops, and cobblers' shops in the Trades Ward off the Way of the Dragon, reportedly still belong to Lord Viallis, but if he has ever returned to Waterdeep, Arnulf doesn't know about it.
+
+#### Visting the tanneries, cobblers and leatherworkers
+Visiting the various shops the players learned the following. 
+- Lord Viallis has an overseer who comes once every second tenday to check the books of each enterprise, pay wages, and collect profits. 
+- The overseer, an elf named Faerl, lives in the village of Leilon approximately midway between Waterdeep and Neverwinter, and is expected in the tomorrow morning.
+
+After which, the party stayed at the inn for the evening and returned early to stake out the tannery.
+
+#### Faerl's arrival
+Faerl arrived in a black coach, accompanied by several bodyguards. In brief conversation, Faerl divulged the following. 
+- The fact that no one was ever charged with the crime "a terrible injustice." 
+- If asked about Lord Viallis, Faerl describes him as "broken by the tragedy." 
+- He denies that his employer could have had anything to do with those terrible events if any character suggests it.
+It was clear at this point, Faerl had had enough questioning, and ordered his guards to escort him to the coach. 
+_We rolled initiative and paused the game. This is where we'll pick up next session._
+
+## Session 16
+### Weald of Woe - _Leilon_
+2024-03-28
+
+Siedan Muhar, boar stalker, a brawny Reshimi hunting a boar
+Leilon history
+- Once a mining town
+- Town was formed a few centuries ago by a wizard, Thalivar, who was luring planar creatures into traps in his tower for research. After the spellplague wreaked havoc on his defenses, many of the creatures got loose and terrorized the town and it was quickly overrun. The remaining townsfolk abandoned the area and it remained that way for more than a century. 
+- A contingent of soldiers from Neverwinter destroyed the planar beacon, working to make the town safe for those that wish to rebuild and settle here. Working with a town council to revive the towns fishing industry, along with two itinerant priests, Kithrin of Lathandar and Vangol, a judge of Tyr.
+- Umaira Shahid bought the old Thalivar house, foul stench, open to the air, soldiers said it was haunted.
+- Some shady folks were seen going in and out of the old Thalivar place, dressed as soldiers, but after the soldiers had turned the place over to Umaira. 
+- Didn't know of Viallis.
+- Alice and Ava were returned unharmed. They had been missing for a tenday. Nobody knows what happened, but Kithrin said their safe return was a sign of a bright future for the town. 
+- Alice runs the haberdashery.
+
+Alion the half-elf that runs the Umber Hulk's Shell Inn mentioned _One of the settlers was planning on purchasing a newly reconstructed home near the House of Thalivar, only, he said he swore he saw a ghost hanging from the scaffolding boom! He’s still on the market for a home in Leilon, but not there for sure!_
+
+Places to visit in town
+- Barge yard (the fishery also doubles as the town council some evenings)
+- Haberdashery
+- House of Thalivar
+- Idol Island
+- Knight's Goblet Inn
+- Lathandar Shrine
+- Peculiararities Shop
+- Settler Camp
+- Tover's Post
+- Town Gates (Neverwinter guard)
+- Town Square (vendors stalls)
+- Tymora Shrine
+- Tyr Shrine (Vangol)
+- Umber Hulks Shell Inn
+- Quayside (docks)
+- Viallis' estate
+
+## Session 17
+### Weald of Woe - _Leilon_
+2024-04-19
+
+Eg, Lulu, Steward and Barricade roamed Leilon looking for information. 
+
+Steward setup at the Umber Hulk's Shell Inn, assisting Alion with duties around the inn, and taking in the conversation. Steward learned while Valdi is a skilled tanner, he doesn't appear to have any connection to Vialis. He is in charge of the fishing industry in Leilon, both generating revenue and sustenance for the town. Sergeant Bersk Yorrum also called on the inn for lunch and Steward learned while in charge of the Neverwinter soldiers, he defers to Umaira for decisions regarding the town's rebuilding. However, at least as of late, Umaira has become even more eccentric than normal, is forgetful, exhausted and guarded about his research. Steward also learned of Nenelyn, a gruff female dwarf tasked with the construction work. None would dare to her face, but she's often referred to as the "the Growler" for her intense demeanor and work ethic. Best to follow her orders and stay on her good side... 
+
+Ava and Alice were found at the Haberdashery by Lulu and Barricade and it was discovered Alice had been drugged, by Barricade bravely test tasting some residue in a cup and promptly falling asleep. Later that evening, they scaled the scaffolding on the Thalivar house and discovered above the third floor window head an inscription in Aragrakh, an ancient dialect of draconic, "ipvis qsowevi tepdvyn", meaning "enter private sanctum" and discovered Umaira in his nightgown rummaging through the rubble at the top floor, open to the elements. He did not seem himself and mistook Barricade in cat form for "Soapwort". They decided to flee down the stairs after Umaira scaled down the outer walls like a spider.
+
+Eg studied news clippings and journals in the small Candlekeep annex in Leilon. He found information about the Swords of Leilon, adventurers who had protected the town in the past. They defeated a powerful evil wizard (?) who somehow bound their souls to this plane. This is likely the source of at least some of the ghost stories surrounding Leilon. Eg also learned a bit more about the beacon - it was used by Thalivar to draw extra planar creatures to his tower, where he trapped and studied them. However, during the spell plague, his traps were disabled, but the beacon remained open, with all manner of creatures destroying and driving out the residents of Leilon. The Neverwinter soldiers destroyed the beacon, resulting in the current state of Thalivar's tower. Later Eg snoozed on the docks and was met by a dream of him being a savior to the town and received inspiration.
+
+The next morning, the group decided to visit Umaira at the tower and discovered he had no memory whatsoever of the previous night's events and was indeed exhausted. Eg's detect magic was a bit overwhelming in the tower, but it was unclear if there were magical items or if it was simply from the vast library of the former owner.
+
+*Lulu’s Journal
+Entry #76
+We entered Leilon (after wringing all we could from Faerl and sending him on his way – if he knew
+anything, he wasn’t sharing. But he DID react when I asked him about the Retribution of the
+Ancients. We should try to find that book.) We’re checking in to the Umber Hulk’s Shell Inn. We’ll
+probably ask the innkeeper for some information, to go along with what we learned from Seiden on
+the road, and the guards at the Leilon gates. So many threads to be investigated, we may split up
+again.
+More later. *
+
+*Lulu’s Journal
+Entry #77
+Well, eventful day. Have to admit I’m a little on edge from all that’s happened, so I’m writing as a
+way to calm down.
+We did split up, with Steward staying at the inn listening in on the day’s gossip, under the guise of
+helping Alion. He got some good information about what’s going on in town. Eg also did his typical
+research and was able to fill in some gaps and clarify some things about the town hauntings.
+Barricade and I talked to Alice, the one who went missing with her daughter. We now believe she
+was drugged and kidnapped (thanks to Barricade trying some of the questionable substance we
+found – he’s gonna get himself killed), although it wasn’t clear why. Then, anyway. Now, we may
+have a viable explanation – Viallis (yep the one whose family died in Waterdeep) may have taken
+them to REPLACE his own family, at least for a while (thanks to Steward for that disturbing theory.)
+We also went to the temple where A&A were returned. Spoke with Kithrin of the Shrine of
+Lathandar. *
+
+*Barricade and I also decided to go on a nighttime “ghost walk” to see what Leilon was like at night.
+So of course, he barrels straight for the Thalivar tower, which was home long ago to an evil wizard
+who used a planar beacon to bring creatures from other planes here for his study – what could go
+wrong? Everything, apparently, since it led to the destruction of Leilon. The tower now belongs to
+Umaira Shahid (remember that name from Daggerford?) Turns out Shahid was in some kind of
+trance, almost seeming to be possessed by Thalivar! We interacted with him a little too long and he
+took a header oƯ the top of the tower, then climbed down the side like a spider. It was super freaky.
+Was it dumb for the 2 of us to go up the tower alone at night? Yep. Could we have been killed? Yep.
+But we weren’t. And it feels like we learned so much. And it was kinda funny too. There I was
+climbing up this scaƯolding on the outside of the tower, with Barricade as a cat hanging on my
+shoulder, and we meet this guy in his nightgown acting really weird. If it wasn’t so disturbing, I’d
+have been laughing.
+So here’s my theory: this is one of those places you told me about where the veil between the living
+and dead is thin. It explains a lot. Alice has vague “dreamy” memories of both she and her
+daughter being pampered, but it’s all foggy. Umaira Shahid complains during the day of being
+exhausted and having to study his papers. When we confronted him, he very much seemed to be
+speaking as if he was someone else. I think that the dead are able to enter the living while they are
+sleeping. My guess is Viallis realized his family could only inhabit Alice and Ava while they were
+asleep, and it wasn’t sustainable. So he let them go. We may try to speak with Viallis about this.
+Likewise, Thalivar has been able to take over Umaira Shahid during his sleep, having Shahid
+continue Thalivar’s research. *
+
+*But what set oƯ all of this? I have a feeling it’s got something to do with those Dreadscale Disciples
+and the woman they abducted, and maybe that book. Wonder if the book is at the tower. We’re
+going back to talk to Umaira tomorrow, after checking out Idol Island.
+Meditating a few minutes to clear my mind, so hopefully I don’t play host to some dead soul after I
+fall asleep.
+More later.
+PS – can all this be simply coincidence? Umaira Shahid’s strange behavior, the
+disappearance/return of Alice & Ava, Viallis, the ghost sightings in Leilon, the Retribution of the
+Ancients, the Dreadscale Disciples????? Too many threads, gotta be related. Meditating isn’t going
+well. *
