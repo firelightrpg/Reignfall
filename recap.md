@@ -18,6 +18,31 @@ The team quickly sprang into action, murdering one houseguard with a fire bolt a
 
 The farmers expressed their gratitude and relayed the story of a trader’s cog that stopped along the Delimbiyr to harvest mushrooms in the Blackbranch forest. Several were taken and the few that managed to escape fled without their companions.
 
+The family hosted the defenders for the night, and planned to change residences to avoid the wrath of any returning houseguards. 
+
+During the night, some of the party began experiencing vivid and unsettling dreams, filled with spiderwebs, eerie whispers, and a sense of impending doom. 
+
+Continuing into the forest, some had vivid and unsettling dreams of spiderwebs, eerie whispers, and a sense of impending doom.
+
+The forest became darker and the atmosphere took on an eerie and foreboding quality. The trees became gnarled and twisted, their branches interlaced with thick cobwebs that stretch from trunk to trunk like a sinister tapestry, reinforcing the fairy’s cautions and the recent nightmares. 
+
+After moving toward a webbed clearing, the company managed to get the drop on the arachnids, achieving surprise by Mara drawing them out with a mage hand plucking a nearby web, with knowledge from Theren’s familiar terrain. 
+
+What could have been a dangerous encounter was defeated without 
+injury. 
+
+What lies ahead? <cue dramatic music>
+
+The farmers relayed the traders name is Cara and she is a Sword Coast trader tha usually works the Delimbiyr River trade route. She is an accomplished navigator and knowledgeable merchant. 
+
+Cara is a young woman with short, dark hair and piercing brown eyes. She is of average height and build, with a wiry strength that comes from years of traveling the Sword Coast. She is often dressed in simple, practical clothing, but she always wears a silver necklace with a pendant of a wolf's head.
+
+    She has a tattoo of a wolf's paw on her left forearm.
+    She has a scar on her right cheek from a bear attack.
+    She has a silver earring in her right ear.
+
+Her crew has been asking around and offering a reward for her safe return.
+
 ## Session 0
 All of the technical and rules details are here
 [session 0 document](https://docs.google.com/document/d/1cXXC0yDAo55sgE_0qbyLjsV7GvXNz2fN0aEy5-_713w/edit?usp=sharing)
