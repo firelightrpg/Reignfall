@@ -32,7 +32,7 @@ All of the technical and rules details are here
 - [Session 25 - _Weald of Woe - Phantom's Embrace - Epilogue_](#session-25---_weald-of-woe---phantoms-embrace---epilogue_)
 - [Session 26 - _Weald of Woe - Whispers by the Sea_](#session-26---_weald-of-woe---whispers-by-the-sea_)
 
-# Session 1  - _Poisoned Skies - Darkening of the Wood_
+# Session 1 - _Poisoned Skies - Darkening of the Wood_
 2023-07-07
 
 The players met in the marketplace of Daggerford. Hinan was recovering from some wounds, moving from a house in the eastern shanties toward the smiths on Tanner Way. Steward and Rick were working at a consignment stall. Eg, Theren and Mara were perusing the markets, with Eg seeking out woolen cloaks. 

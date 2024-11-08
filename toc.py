@@ -4,15 +4,14 @@ import re
 with open("README.md", encoding="UTF-8") as f:
     markdown_content = f.read()
 
-# Use a regular expression to find only headers that start with "# Session"
-headers = re.findall(r"^(# Session \d+ - .+)$", markdown_content, re.MULTILINE)
+# Regular expression to match headers that start with "Session" and to ensure no preceding whitespace.
+headers = re.findall(r"^\s*# (Session \d+ - .+)$", markdown_content, re.MULTILINE)
 
 # Generate a table of contents
 toc = []
 for header in headers:
-    # Clean up the title for the link
-    title = header.strip("# ")
-    # Convert the title to a GitHub-friendly anchor link
+    title = header.strip()  # Remove any extra whitespace
+    # Generate the GitHub-friendly link
     anchor = re.sub(r"[^\w\s-]", "", title).replace(" ", "-").lower()
     toc.append(f"- [{title}](#{anchor})")
 
