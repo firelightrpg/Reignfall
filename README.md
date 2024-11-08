@@ -785,3 +785,26 @@ victims, including Lady Maria and her children and the remains of Sarah, the gho
 
 Further investigation of the temple uncovered dark rights and rituals, along with a journal and some correspondence. 
 
+## Viallis’ Journal, Entry #257
+>"The disciples of Dreadscale grow more frantic with each passing day. Their wyrmspeaker, Ssyldrith, believes the ritual will be the pinnacle of their ambition—to transform Ungrix, the shadow-wreathed green dragon, into a dracolich of unspeakable power. But I know better. Dragons are such foolish creatures, clinging to the belief that undeath will grant them true dominion. Their Horn of Ascendancy is merely a relic of failed promises.
+>
+>Yet, Ungrix’s disciples move forward. They will initiate the first phase of the conversion ritual under the ruins in the Mere of Dead Men. The sacrifices are gathered, and once the horn calls to her, she will be bound to the will of the Dreadscale—no longer a dragon, but a puppet of their own making. It amuses me to no end.
+>
+>Still, I have my own purposes to tend to. These distractions are beneath me, yet I shall humor them a while longer. The mere thought of their desperation is... useful."
+## Correspondence
+>"Viallis,
+>
+>The horn is ready. I now wear the Jade amulet of Daurgothoth, and the preparations for Ungrix’s ascension near completion. We have gathered at the temple beneath the mere, and the final steps are soon to be taken. However, we require the remaining undead from your horde to ensure the ritual remains undisturbed. Time is short, and once the ascension begins, Ungrix will be unstoppable—her transformation from dragon to dracolich will mark the turning point in our rise to power.
+>
+>Make no mistake, once Ungrix becomes what she is destined to be, even your ambitions will be swallowed by her shadow."
+>
+>—Ssyldrith, Wyrmspeaker of Dreadscale"
+Steward used his helm and keen mind, as well as Lulu's advice to discern the contents of a book with dragon claws. 
+## Claugiyliamatar’s Bastard
+>Ungrix was born as the result of a brief, almost dismissive dalliance by Claugiyliamatar with a lesser green dragon, a union she quickly disavowed. Despite Claugiyliamatar’s formidable status, she regarded her offspring with disdain, deeming Ungrix too weak and impulsive to be of any consequence or use to her grand designs. She never formally acknowledged her as her progeny, leaving Ungrix to grow up without the status or protection she might have otherwise enjoyed.
+>
+>Left to hatch in the forsaken depths of the Dead Mere, Ungrix’s egg lay hidden in shadowed, murky caverns, absorbing the eerie energies of the swamp. With no mother to guide her and only darkness as her companion, Ungrix’s young soul was infused with the malevolent shadows that permeated her birthplace.
+>
+>Abandoned by her mother and ostracized by other dragons who sensed her lowly status, Ungrix became consumed by a desire for power and independence, forging her own path through alliances with the disciples and shadow magic.
+
+What will the party do next? It is not clear where this temple is, other than in the Mere of Dead Men, which is a very large swath of misty swamp. 
