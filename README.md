@@ -770,3 +770,10 @@ Further investigation of the temple uncovered dark rights and rituals, along wit
 >Make no mistake, once Ungrix becomes what she is destined to be, even your ambitions will be swallowed by her shadow."
 >
 >—Ssyldrith, Wyrmspeaker of Dreadscale"
+Steward used his helm and keen mind, as well as Lulu's advice to discern the contents of a book with dragon claws. 
+## Claugiyliamatar’s Bastard
+>Ungrix was born as the result of a brief, almost dismissive dalliance by Claugiyliamatar with a lesser green dragon, a union she quickly disavowed. Despite Claugiyliamatar’s formidable status, she regarded her offspring with disdain, deeming Ungrix too weak and impulsive to be of any consequence or use to her grand designs. She never formally acknowledged her as her progeny, leaving Ungrix to grow up without the status or protection she might have otherwise enjoyed.
+>
+>Left to hatch in the forsaken depths of the Dead Mere, Ungrix’s egg lay hidden in shadowed, murky caverns, absorbing the eerie energies of the swamp. With no mother to guide her and only darkness as her companion, Ungrix’s young soul was infused with the malevolent shadows that permeated her birthplace.
+>
+>Abandoned by her mother and ostracized by other dragons who sensed her lowly status, Ungrix became consumed by a desire for power and independence, forging her own path through alliances with the disciples and shadow magic.
