@@ -777,3 +777,5 @@ Steward used his helm and keen mind, as well as Lulu's advice to discern the con
 >Left to hatch in the forsaken depths of the Dead Mere, Ungrix’s egg lay hidden in shadowed, murky caverns, absorbing the eerie energies of the swamp. With no mother to guide her and only darkness as her companion, Ungrix’s young soul was infused with the malevolent shadows that permeated her birthplace.
 >
 >Abandoned by her mother and ostracized by other dragons who sensed her lowly status, Ungrix became consumed by a desire for power and independence, forging her own path through alliances with the disciples and shadow magic.
+
+What will the party do next? It is not clear where this temple is, other than in the Mere of Dead Men, which is a very large swath of misty swamp. 
