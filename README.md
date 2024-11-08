@@ -762,3 +762,11 @@ Further investigation of the temple uncovered dark rights and rituals, along wit
 >Yet, Ungrix’s disciples move forward. They will initiate the first phase of the conversion ritual under the ruins in the Mere of Dead Men. The sacrifices are gathered, and once the horn calls to her, she will be bound to the will of the Dreadscale—no longer a dragon, but a puppet of their own making. It amuses me to no end.
 >
 >Still, I have my own purposes to tend to. These distractions are beneath me, yet I shall humor them a while longer. The mere thought of their desperation is... useful."
+## Correspondence
+>"Viallis,
+>
+>The horn is ready. I now wear the Jade amulet of Daurgothoth, and the preparations for Ungrix’s ascension near completion. We have gathered at the temple beneath the mere, and the final steps are soon to be taken. However, we require the remaining undead from your horde to ensure the ritual remains undisturbed. Time is short, and once the ascension begins, Ungrix will be unstoppable—her transformation from dragon to dracolich will mark the turning point in our rise to power.
+>
+>Make no mistake, once Ungrix becomes what she is destined to be, even your ambitions will be swallowed by her shadow."
+>
+>—Ssyldrith, Wyrmspeaker of Dreadscale"
