@@ -7,27 +7,20 @@ with open("README.md", encoding="UTF-8") as f:
 # Find headers that match the "Session" pattern
 headers = re.findall(r"^\s*# (Session \d+ - .+)$", markdown_content, re.MULTILINE)
 
-# Generate a table of contents with <a> links
+# Generate a table of contents with GitHub-compatible links
 toc = []
 for header in headers:
     title = header.strip()
-    # Generate an id-friendly link by removing special characters, replacing spaces, etc.
-    anchor_id = re.sub(r"[^\w\s-]", "", title).replace(" ", "-").lower()
-    toc.append(f'<a href="#{anchor_id}">{title}</a>')
+    # Generate GitHub-compatible anchor by lowercasing and replacing spaces and special characters
+    anchor = title.lower().replace(" ", "-")
+    anchor = re.sub(r"[^\w-]", "", anchor)  # Remove any special characters
+    toc.append(f"- [{title}](#{anchor})")
 
-
-# Insert custom id anchors directly before each header in the markdown
-def insert_anchor(match):
-    header_text = match.group(1)
-    anchor_id = re.sub(r"[^\w\s-]", "", header_text).replace(" ", "-").lower()
-    return f'<a id="{anchor_id}"></a>\n# {header_text}'
-
-
-content_with_anchors = re.sub(r"^\s*# (Session \d+ - .+)$", insert_anchor, markdown_content, flags=re.MULTILINE)
-
-# Combine TOC and content
+# Combine TOC and original content
 toc_content = "\n".join(toc)
-final_content = f"## Table of Contents\n{toc_content}\n\n{content_with_anchors}"
+final_content = f"## Table of Contents\n{toc_content}\n\n{markdown_content}"
 
 print("Generated Markdown Content:")
-print(final_content)
+
+with open("README.md", "w", encoding="UTF-8") as f:
+    f.write(final_content)
