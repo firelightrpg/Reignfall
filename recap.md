@@ -218,6 +218,7 @@ Explored so far...
 ### Poisoned Skies - Dawnbreaker - _The Mountain Door_
 2023-12-07
 
+(*Steward*)
 We pushed our way deeper inside the cave, taking out several lizardmen along the way to a rope bridge.
 
 After we cross the bridge, we enter a space filled with old dwarven furniture and a cage. In the caged area are two captives: Garrett,  human from farming settlement, Union. Neelix, Elf lady with daggers. After we freed them, the man left after we gave him a weapon. Nelix stayed with us.
@@ -273,4 +274,17 @@ After encircling the eastern portion of the foundry, the party discovered a secr
 
 ![image](https://github.com/user-attachments/assets/23cf6a35-2d18-4440-915f-9974705714ca)
 
+## Session 13
+### Poisoned Skies - Dawnbreaker _The Black Lake_
+2024-01-16
 
+(*Lulu*)
+Theren made an abrupt departure for home due to his father’s failing health, promising to be ready if any attacks befall Daggerford.  He hurriedly hands the 3 arrows and the potion of greater healing to Nelix and is gone.  Nelix then reveals her true identity (LuLu) to the group, indicating she was hired by an unknown party from Daggerford to investigate the misfortunes befalling the area, to see if they are related to the supposed cultists and to determine if there is any involvement from any of the Daggerford nobles.  Yes to all.  The party doubles down on their commitment to finding and defeating the dragon, Ixira.
+
+With the help of Garrett, the other freed captive (from session 10), the party returns to the desiccated shrine room and eliminates the last 3 undead Dawnbreakers.  They find a pouch of 600 gp, a bone scroll case with a scroll of web and a scroll of spider climb and are gifted a tablet by Horin’s freed spirit.  Confident they’ve cleared this floor of the ruins, they head to the chain ladder and descend into the caverns underneath Theraldur.
+
+After scouting a bit and a few minutes of well-executed mending on the bridge, the party finds their quarry:  Ixira rests on an island in a small (but deep) lake.  They prepare for battle as the dragon slips below the surface, only to emerge much closer and ready for a fight.  They trade blows, Ixira dealing far more damage than she took, at one point knocking Barricade out.  But with a few lucky shots, some spells, a lot of healing, the use of Horin’s tablet, and the arrival of the bronze dragon wyrmling, Telarion, the last of Theren’s 3 magic arrows provided the final blow to the big black dragon. (whew!)
+
+Treasure was collected and the party got the heck outta Dodge.
+
+![image](https://github.com/user-attachments/assets/f3ccd358-4dde-4675-9e68-7182bf71eaba)
