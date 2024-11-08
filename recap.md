@@ -421,7 +421,7 @@ Ancients. We should try to find that book.) We’re checking in to the Umber Hul
 probably ask the innkeeper for some information, to go along with what we learned from Seiden on
 the road, and the guards at the Leilon gates. So many threads to be investigated, we may split up
 again.
-More later. *
+More later.*
 
 *Lulu’s Journal
 Entry #77
@@ -436,7 +436,7 @@ found – he’s gonna get himself killed), although it wasn’t clear why. Then
 have a viable explanation – Viallis (yep the one whose family died in Waterdeep) may have taken
 them to REPLACE his own family, at least for a while (thanks to Steward for that disturbing theory.)
 We also went to the temple where A&A were returned. Spoke with Kithrin of the Shrine of
-Lathandar. *
+Lathandar.*
 
 *Barricade and I also decided to go on a nighttime “ghost walk” to see what Leilon was like at night.
 So of course, he barrels straight for the Thalivar tower, which was home long ago to an evil wizard
@@ -458,7 +458,7 @@ speaking as if he was someone else. I think that the dead are able to enter the 
 sleeping. My guess is Viallis realized his family could only inhabit Alice and Ava while they were
 asleep, and it wasn’t sustainable. So he let them go. We may try to speak with Viallis about this.
 Likewise, Thalivar has been able to take over Umaira Shahid during his sleep, having Shahid
-continue Thalivar’s research. *
+continue Thalivar’s research.*
 
 *But what set oƯ all of this? I have a feeling it’s got something to do with those Dreadscale Disciples
 and the woman they abducted, and maybe that book. Wonder if the book is at the tower. We’re
@@ -469,4 +469,4 @@ More later.
 PS – can all this be simply coincidence? Umaira Shahid’s strange behavior, the
 disappearance/return of Alice & Ava, Viallis, the ghost sightings in Leilon, the Retribution of the
 Ancients, the Dreadscale Disciples????? Too many threads, gotta be related. Meditating isn’t going
-well. *
+well.*
