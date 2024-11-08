@@ -1,4 +1,49 @@
 
+## Session 5
+2023-09-21
+
+The party entered the structure under the tower after resting at the ground level. It was clear the ruins were only recently occupied by the ogre-kin, and the previous inhabitants had perished long ago, due to a cataclysmic event, leveling the structure above ground and sealing it's inhabitants to suffer slow and agonizing deaths. 
+
+The party investigated the structure, defeated several ogres, rescued hostages and discovered a chamber with ritual wards for a serpent talisman. The item was retrieved successfully by following the rituals depicted in the murals.
+
+The party also befriended a giant boar, serving the ogres. 
+
+## Session 4
+2023-08-18
+
+The party returned returned Hallis, the young adult rescued from the Liam's Hold Retinue, to his home in the outlying farms of Daggerford and headed into the city proper, with an eye out for the wanted posters. 
+
+Some of the party went to the Black Stone Inn for some refreshements where they discovered a broken man, Alistair, who's faithful hunting dog Jax had been killed by misshapen, large bandits and was drowning his sorrows in drink. The party escorted Alistair safely to the barracks, where he spent the night.
+
+After which, everyone ate and had a restful night, some at the Black Stone Inn, and others with Theren at his father's house.
+
+The next morning, the party returned to the barracks to speak with Alistair and also met Serwyn, a Daggerford guard who mentioned Haldur, a seasoned and weathered trader who was also a collector, and has been searching for a Serpent Talisman, rumored to be near Blackhelm Tower. 
+
+The party investigated and discovered a weathered lump of rock, seeming a natural formation at first. On closer inspection, you notice the faint remnants of a once-impressive statue. Carved from stone long ago, the statue now appears worn and aged, blending seamlessly with the surrounding rocks and vegetation.
+
+The stone figure stands tall, its form distorted and weathered by the passage of time. Its shape suggests a powerful creature, with elongated limbs and a coiled body. The surface is covered in patches of moss and lichen, further camouflaging its true nature. Though its original details have faded, you can still discern hints of intricate carvings that once adorned its surface, hinting at the artistry that went into its creation.
+
+After which, Theren noticed some footsteps and climbed the ridge to see a peculiar sight, a sturdy, elevated platform supported by a hulking creature. The platform is constructed from rough-hewn planks and lashed together with thick ropes and animal hide bindings. It provides ample space for four small individuals to stand or sit, each equipped with weapons and gear. The makeshift structure is fortified with barricades of stacked shields and salvaged materials, forming a protective barrier around the riders. Atop the platform, you see a collection of crates, barrels, and sacks secured tightly to prevent them from shifting during movement. The entire contraption sways with the creature's heavy footsteps, revealing its improvised nature. The riders, clad in mismatched armor and wielding a variety of weapons, maintain a vigilant watch, their eyes scanning the surroundings for any signs of danger.
+
+Near the ogre's death, after killing or routing the goblins and bloodying the ogre, the ogre blew a horn. 
+
+Out of the ruins of a nearby tower came two more large creatures, one wielding a massive ballista. After a somewhat grueling battle, the party sheltered in the ruined tower for a much needed rest.
+
+## Session 3
+2023-08-09
+
+After delving further into the spiders' underground lair, on the upper west side of the cavern is a collection of cocooned bodies, bones and refuse, demonstrating these spiders answer nature’s call where they feed. Upon inspection, one of the bodies wears a pendant adorned with a stylized dragon symbol. Amongst the refuse are the remains of several used poison kits. 
+
+The party then explored the main multi-tiered cavern, with a high ledge on the left side that is over 40 feet above the floor level of the cave, and the each tier on the north side of the cave being roughly 7-9 feet above the tier before it.
+
+On the very highest of the east ledges, among the recently gnawed remnants of a human corpse is a web-cocooned humanoid. If freed, Cara is poisoned, but alive. With nurture she regained consciousness after one hour, and wanted to look for her fellow traders, however, all of which are dead. 
+
+Amongst the treasure the spiders have accumulated are the remains of several used poison kits. 
+
+After parlaying with the clutter queen, trading her life for the coccon, the party also picked up a decorative scroll case. with what appears to be a locking mechanism adorned with dragons. On closer inspection, it appears to have a rotating dial, several glyphs, a relief of three dragons, elven runes and radiates abjuration and necromancy magic. The relief shows three encircled fighting dragons, a gold dragon attacking an indeterminate color dragon, which, in turn is attacking a red dragon, which in turn is attacking the gold dragon.  After opening the scroll case, two scrolls, Revivify and Mass Healing Word were discovered. 
+
+The party headed back toward Daggerford, and everyone gained a level (2). On the way back, they tussled with another group of nobles who were in the process of summary execution, again, of a young adult if not a child.
+
 ## Session 2
 2023-07-26
 
