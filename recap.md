@@ -482,3 +482,61 @@ Appears to be a luxurious spa/bathhouse, lilies everywhere.  Would seem dreamlik
 Names to remember: Saeth-greeter, dressed like a peacock, fey, maybe even fiend in disguise; Morgana-host/proprietor, moon elf but MORE, likely fey; also a few servants and several other guests.
 No reaction to Viallis name-drop, but definitely knew of Alice and Ava (without admitting it).
 Oh boy, we are being pushed hard to enter the baths.  Probably shouldn’t go in.*
+
+# Session 19 - _Weald of Woe - Mystic Reverie_
+2024-05-31
+
+(*Eg's notes*)
+*The party went into the hot spring and tested the waters, finding that it heals minor injuries. While discussing how to proceed with investigating the situation they found themselves in, they met Cyrena a Nyad who lives in the Hot Spring bath. She asks the group to locate the old proprietor "Sylvari Silverstone" who she believes is still alive and is being kept away by the current owners (Greensong, Morganna & Azira). Promising to find Sylvari, they depart from the bath to begin their investigations. Steward heads to the bar/staff quarters to assist the resort and gather information.
+“ from conversation with the well dressed soldier - Stoth Dusksnow, a veteran of the Flaming Fist, a ruthless mercenary company based in the city of Baldur's Gate, has come to the temple to recover from a leg injury. The treatments and physical therapy are helping, but the mercenary is bored and looking for excitement.”
+“Prader Nalambar, a half-drow, former Waterdhavian guard with thick, jet hair which is worn short of average height and his body is slightly underweight with moon-colored skin. He didn’t bring enough money for the services but has been trying to get discounts with smooth words.”
+“Seraphina Leagallow, a halfling scout from the coastal city of Neverwinter”
+Barricade heads to a workout area where he challenges a tree to tug of war & jump rope winning a potion of some form for his efforts.
+Lulu heads to the hairstylist and requests a cut, upon digging into their story of why they’re there, they requested her to ask the following day and they’ll tell her more.
+Eg ventures around the grounds and stumbles upon a Tsune shrine sealed with a black substance. He ignites it and douses it repeatedly along the doorframe until it’s loose enough to push open. Wandering inside he cleans up a statue that appeared to be crying and ventures into the basement where he meets Sylvari (who’s been turned into a Medusa). They speak for a while about the past, portals to this realm and what happened to her/how the new fiends took over the resort. Getting a brief explanation Eg heads off to meet his party to explain what he’s found and to speak with Cyrena again about finding Sylvari.*
+
+The party, prompted by Saeth, visited the baths. They found the water to be imbued with healing magic. 
+
+They also detected a presence in the water, a naiad, Cyrena, a fey creature bound to the spring much in the way a dryad is bound to a tree. Though it was evident she could be a formidable foe, the party quickly warmed to her and she told a story of a kind proprietor, Silvarie Silversong. It was clear she didn't quite understand the passage of time here, or with respect to the party, but was unhappy with the torment she faced with the current landlords, three fey sisters, Morganna, Azira and Greensong. She was unsure of the fate of Sylvarie, but hopeful she may still live. The party graciously agreed to investigate.
+
+(*Lulu's Journal*)
+*Quick notes, (pretending to write poetry while sitting under a tree “enjoying nature” so I don’t look suspicious while waiting for Barricade who’s in the tower.)
+Bathhouse waters = healing, home to Cyrena (naiad)
+Sylvarie Silversong – former proprietor (Cyrena wants her to come back)
+Greensong/Azira/Morganna – disguised? – got rid of Sylvarie?
+Tension b/w Azira & Morganna? Possible pt of weakness in trio?
+Per Eg:
+    Sylvarie Silversong is prisoner beneath shrine in back
+    “Fetid Gaze” made the portal mirror – G/A/M?
+    G/A/M tricked SS and took over here
+    Portraits = imprisonment & transformation (of character & body)
+Steward getting intel on guests – possible allies?
+Empolyees:
+    Dusk (trapped???) – possible ally
+    Silent workers (in league w/ 3???) – probably our enemies, maybe more here
+    Saeth (seems opportunistic, here by choice???) – if w/ ulterior motivation, could be swayed to help
+How are portraits made? How to destroy (fire? water (Cyrena’s?) acid? magic?)
+How do we get HOME?
+Still waiting for Barricade.  Please: don’t get stepped on, do find portraits, do come back for help/to regroup.
+More later.*
+
+*Eg's conversation with Sylvarie*
+
+*This grand temple and bathhouse rests in a serene and forested grove in a demiplane called Almare (elven for bliss), created by Lyranthia, an ancient eladrin, baelnorn witch-queen a thousand years ago. The demiplane shares traits of both Faerün and the feywild. It is rumored Lyranthia was building a “heaven” or sorts, but then it was lost to legend. 
+Three hundred years ago, I, Sylvarie Silversong discovered a portal to Almare after visions bestowed by Sune led her to a small pond in the High Forest. Sune had created a grand temple over a hot spring infused with fey magic in the demiplane created by Lyranthia. 
+I saw this as a divine calling to bring people here for respite, to rest and recover from the toils of life. 
+For years, I traveled all around the Sword Coast, bringing all manner of folks to Almare, via the portal in the secret grove, deep in the High Forest.
+However, it was not long until the Fetid Gaze, a hag coven living in an area of the Feywild coterminous with the area around the pond began to take notice. They tricked me into a bargain that allowed them to take over the temple. Before the hags defeated me, I tried to destroy the portal, in a last ditch effort to seal Almare off from the Sword Coast. The hags instead defeated me and, with their cruel magic, infused into the portal a charm, bound to a mirror on Faerün, such that when any looks into the mirror, it entices them to reach into the mirror to change their fate, teleporting them to Almare. 
+These cruel and cunning fey now use the temple to lure the wealthy, greedy, and vain, preying on their insecurities and tricking them into accepting dark bargains that ultimately lead to misery.*
+
+Lulu also spoke with "Dusk," a drow stylist who seemed eager to share his story, but not until the following day. 
+
+Barricade, in spider form reconnoitered the tower to find the first floor guarded by one of the unspeaking servants, with  two doors unexplored, though viewed from the outside, one was clearly a bedroom with the other a lounge or studio, with a large chest. 
+
+On reaching the second story of the tower, Barricade found the floor divided between a recently used kitchen and sparse quarters, like those used for prisoners or animals. In the quarters, however, were three humanoids in soldier's garb, not unlike the Neverwinter guards. Not wanting to disturb them, Barricade, the spider continued up the central spiral staircase. 
+
+The third floor was trapped by a glyph and is a multi person bedroom, with three beds and a putrid scent, apparently coming from the beds, including one with a canopy made from flesh. The beds themselves are constructed from bones and animal hides. Stacked along the walls are hundreds of paintings.
+
+Areas of the temple that have been explored: the grounds, lobby, lounge, garden, bath and hot spring, kitchen (a little), treatment rooms (Dusk), storage closet, shrine and tower. The only unexplored areas are the guest rooms. Some of the areas were only explored with a cursory glance.
+
+
