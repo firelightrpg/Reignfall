@@ -211,6 +211,7 @@ A path meandered up a switchback, rising out of the swamp toward a bare shoulder
 Barricade was able to see a chamber with a narrow ledge overlooking a deep, dark crevasse that cuts the room in two. A dangerous-looking rope bridge, frayed and thin, spans the gap. Water gurgles and rushes somewhere far below.
 
 Explored so far...
+
 ![image](https://github.com/user-attachments/assets/bee68927-2fc5-4541-a5ce-e34a1fbade2a)
 
 ## Session 10
@@ -239,5 +240,6 @@ After examining carefully several dwarven sarcophagi and leaving them unlooted, 
 The party found a key that opened the door on a mold covered skeleton and secured the area for a much needed rest.
 
 Beyond the door was a long stair leading to a room with dwarven statues, but it was only briefly examined for enemies and left for after the rest.
+
 ![image](https://github.com/user-attachments/assets/65e2ef18-0db0-4abe-bcca-8735f76df802)
 
