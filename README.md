@@ -812,7 +812,6 @@ The party returned the remaining hostages to Leilon, along with the remains.
 - Darrik Stonehelm - A rugged dwarven blacksmith from Baldur's Gate, famous for crafting enchanted blades that he only sells to those he deems worthy.
 - Lyra Windrider - An enigmatic sorceress from Neverwinter with ties to elemental forces, often seen wandering the Mere of Dead Men in search of rare herbs and magical secrets.
 
-Lyra Windrider - An enigmatic sorceress from Neverwinter with ties to elemental forces, often seen wandering the Mere of Dead Men in search of rare herbs and magical secrets.
 > Sarah, Lady Maria and her children materialize before you, hugging each other. Sarah then speaks, “The shadows still coil in the swamp where the green scaled tyrant dwells, an ancient temple defiled by new masters,” then fades, her connection to the cult finally broken as their spirits finally leave the material, able to move on to their final rest. The spirits then vanish, their forms scattering like flower petals on the wind.
 
 What will the party do next? It is not clear where this temple is, other than in the Mere of Dead Men, which is a very large swath of misty swamp. 
