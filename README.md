@@ -31,6 +31,7 @@ All of the technical and rules details are here
 - [Session 24 - _Weald of Woe - Phantom's Embrace_](#session-24---weald-of-woe---phantoms-embrace)
 - [Session 25 - _Weald of Woe - Phantom's Embrace - Epilogue_](#session-25---weald-of-woe---phantoms-embrace---epilogue)
 - [Session 26 - _Weald of Woe - Whispers by the Sea_](#session-26---weald-of-woe---whispers-by-the-sea)
+- [Session 27 - _Weald of Woe_](#session-27---weald-of-woe)
 
 # Session 1 - _Poisoned Skies - Darkening of the Wood_
 2023-07-07
@@ -815,3 +816,25 @@ The party returned the remaining hostages to Leilon, along with the remains.
 > Sarah, Lady Maria and her children materialize before you, hugging each other. Sarah then speaks, “The shadows still coil in the swamp where the green scaled tyrant dwells, an ancient temple defiled by new masters,” then fades, her connection to the cult finally broken as their spirits finally leave the material, able to move on to their final rest. The spirits then vanish, their forms scattering like flower petals on the wind.
 
 What will the party do next? It is not clear where this temple is, other than in the Mere of Dead Men, which is a very large swath of misty swamp. 
+
+# Session 27 - _Weald of Woe_
+2024-11-21
+
+## Into the Mere
+Returning to Leilon, our heroes—now celebrated as the new "Swords of Leilon"—were met with cheers and heartfelt gratitude. Among the crowd were families mourning the loss of loved ones, their grief tempered by relief as four freed captives returned alongside the remains of nearly 100 victims of the Burnt Tongue and their allies, the Dreadscale Disciples. The freed captives joined the community, aiding in funeral services, from digging graves to leading somber ceremonies.
+
+Amid the somber proceedings, the party heard the captives' harrowing tales of abduction. During one funeral, an ethereal wisp appeared, lamenting it could not rest until it found Eritha, its wife, whose remains were absent among the recovered dead. The wisp’s sorrow drew our heroes’ attention back to the dark machinations of the Dreadscale Disciples, who they knew traded with hags and hoarbringers, supporting Sammaster’s Cult of the Dragon. These efforts, entwined with the "Sacred Horn," aimed to empower dragons into dracoliches, continuing Sammaster’s grim prophecy.
+
+## Into the Mere: The Poisoned Path
+Compelled by the wisp's plea, the party split—Flankstake and Valet, the Steward's homunculus servant, followed the wisp into the Mere of Dead Men, while the others remained to gather information. Flankstake soon discovered an ominous scene: a dead horse, its foam-flecked body attracting a raven. As the raven flew off, he followed the trail to find 13 dead ravens, one partially eaten by its kin. Seeking evidence, Flankstake picked up the half-eaten raven but succumbed to its poisonous blood.
+
+Valet continued alone while the rest of the party arrived just in time to save Flankstake from the poison’s lingering effects. Together, they pressed on, regaining contact with Valet as they stumbled upon a ruined church haunted by wisps. The spirits posed a riddle: "Who slew none, yet slew a dozen?" After one incorrect answer and a warning of dire consequences, the party realized the raven's poisoned death had caused the demise of its flock. Satisfied, the wisps allowed them to pass.
+
+## Trials of the Fey
+Deeper in the swamp, the party encountered a stone circle marked with seasonal symbols, guarded by mischievous fey. The fey launched volleys of tiny, poison-coated arrows, dropping Barricade and Steward into a deep sleep. Though the poison proved non-lethal, the attacks were unnerving. Thanks to Steward's Helm of Comprehend Languages, the cryptic taunts of the fey revealed a clue. The party correctly arranged the stones to represent the seasons, earning the fey's blessing to proceed.
+
+## The Ritual’s Reckoning
+The heroes reached their destination: the ruins of a forgotten temple, now overtaken by a yuan-ti cult. Inside, the cultists—pureblood dragonclaws, dragonfang malisons, and a dragonsoul nightmare wyrmspeaker—performed a dark ritual under the ominous glow of arcane energies. The episode ended in the heat of battle, with our heroes locked in a desperate fight against the cultists, the fate of the Mere and Eritha’s soul hanging in the balance.
+
+## To Be Continued...
+What dark secrets will the cult’s ritual reveal? Will the heroes triumph and uncover the truth behind Eritha's disappearance?
