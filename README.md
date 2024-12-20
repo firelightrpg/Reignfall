@@ -32,6 +32,8 @@ All of the technical and rules details are here
 - [Session 25 - _Weald of Woe - Phantom's Embrace - Epilogue_](#session-25---weald-of-woe---phantoms-embrace---epilogue)
 - [Session 26 - _Weald of Woe - Whispers by the Sea_](#session-26---weald-of-woe---whispers-by-the-sea)
 - [Session 27 - _Weald of Woe_](#session-27---weald-of-woe)
+- [Session 28 - _Weald of Woe_](#session-28---weald-of-woe)
+- [Session 29 - _Weald of Woe_](#session-29---weald-of-woe)
 
 # Session 1 - _Poisoned Skies - Darkening of the Wood_
 2023-07-07
