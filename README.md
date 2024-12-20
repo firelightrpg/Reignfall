@@ -838,3 +838,29 @@ The heroes reached their destination: the ruins of a forgotten temple, now overt
 
 ## To Be Continued...
 What dark secrets will the cult’s ritual reveal? Will the heroes triumph and uncover the truth behind Eritha's disappearance?
+
+# Session 28 - _Weald of Woe_ 
+2024-12-05
+
+At the temple, the party found yuan-ti dreadscale disciples performing dark rituals. After defeating them and restoring statues to a fey god, they delved into the crypt below and faced more yuan-ti foes.
+
+# Session 29 - _Weald of Woe_ 
+2024-12-19
+
+In the crypt, the party killed the wyrmspeaker yuan-ti abomination, but not before he spilled blood on a black crystal. Ungrix, a green shadow dragon, emerged, called by the wyrmspeaker's ritual, monologuing about her disdain for the disciples’ plan to use her body for a lich. A fierce battle followed, ending with Ungrix fleeing and cursing Leilon as she escaped.
+
+Realizing they couldn't reach Leilon before Ungrix and her undead forces, they were aided by an ancient fey appearing as an elf boy, who teleported them ahead. The party joined the fey battalions preparing for war:
+
+    Wildheart Tide: Mobile infantry.
+    Willow's Thorn: Archers.
+    The Wispborne: Infantry.
+    Moon Riders: Flying cavalry.
+
+Opposing forces include:
+
+    Ungrix: Green shadow dragon.
+    Fallen Legion: Skeleton and zombie infantry.
+    Harrowmark: Skeletal archers.
+    Soul Riders: Undead cavalry on nightmare steeds.
+
+The session ended with preparations for a massive battle, pausing to strategize and review mass combat rules.
