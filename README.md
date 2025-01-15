@@ -4,6 +4,7 @@ All of the technical and rules details are here
 [session 0 document](https://docs.google.com/document/d/1cXXC0yDAo55sgE_0qbyLjsV7GvXNz2fN0aEy5-_713w/edit?usp=sharing)
 
 ## Table of Contents
+<details>
 - [Session 1 - _Poisoned Skies - Darkening of the Wood_](#session-1---poisoned-skies---darkening-of-the-wood)
 - [Session 2 - _Poisoned Skies - Darkening of the Wood_](#session-2---poisoned-skies---darkening-of-the-wood)
 - [Session 3 - _Poisoned Skies - Darkening of the Wood_](#session-3---poisoned-skies---darkening-of-the-wood)
@@ -34,6 +35,7 @@ All of the technical and rules details are here
 - [Session 27 - _Weald of Woe_](#session-27---weald-of-woe)
 - [Session 28 - _Weald of Woe_](#session-28---weald-of-woe)
 - [Session 29 - _Weald of Woe_](#session-29---weald-of-woe)
+</details>
 - [Session 30 - _Fall of Neverwinter_](#session-30---fall-of-neverwinter)
 
 # Session 1 - _Poisoned Skies - Darkening of the Wood_
