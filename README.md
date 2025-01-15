@@ -879,6 +879,8 @@ The adventurers mingled with familiar faces and figures of significance, includi
 - **Dagult Neverember**, accompanied by his daughter **Aurelia** and **Lucian**, an advisor who had heard of the party’s great deeds. Several nobles were seen discreetly vying for Lucian’s attention.  
 - Patrons, past allies, and former captives freed by the party, their gratitude evident in their words and gestures.  
 
+While the crew partook of the fine food and drink, especially Barricade, jesters, a string quartet and illusionists performing a light show provided entertainment. Steward, ever dutiful found a natural rhythym jointing the servants. 
+
 The crew joined Dagult and Aurelia on the battlements to watch fireworks in honor of their triumphs. But instead of a dazzling display, the skies above the city darkened. A black orb appeared, enveloping Neverwinter and tearing it from its foundation. The city was wrenched across the **Astral Sea**, through the **Outer Torments**, and into the fiery skies of **Avernus**, the first layer of the Nine Hells.  
 
 Dagult made a lengthy and impassioned explanation as the city’s new reality set in. But before the gravity of their situation could fully sink in, a chilling sound echoed through the night: screams rising from the halls below.  
