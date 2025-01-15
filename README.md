@@ -869,7 +869,7 @@ Opposing forces include:
 The session ended with preparations for a massive battle, pausing to strategize and review mass combat rules.
 
 # Session 30 - _Fall of Neverwinter_ 
-
+2025-01-02
 ### A Night to Remember
 
 The ball held in the grand Hall of Justice in Neverwinter was a celebration to honor the party's heroic deeds in defeating **Ungrix**, the great green shadow dragon, and her horde of undead that threatened Leilon. Nobles and high society gathered in force, creating a night of recognition and intrigue.  
