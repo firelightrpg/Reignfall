@@ -869,6 +869,22 @@ Opposing forces include:
 The session ended with preparations for a massive battle, pausing to strategize and review mass combat rules.
 
 # Session 30 - _Fall of Neverwinter_ 
+
+### A Night to Remember
+
+The ball held in the grand halls of Castle Neverwinter was a celebration to honor the party's heroic deeds in defeating **Ungrix**, the great green shadow dragon, and her horde of undead that threatened Leilon. Nobles and high society gathered in force, creating a night of recognition and intrigue.  
+
+The adventurers mingled with familiar faces and figures of significance, including:  
+- **Zim**, a judge of Tyr, wielding scales balanced on a warhammer. His vestments bore symbols of the White Gauntlet and the Hammer and Anvil, accompanied by servitors each representing a virtue: hope, temperance, mercy, valor, devotion, and righteousness.  
+- **Dagult Neverember**, accompanied by his daughter **Aurelia** and **Lucian**, an advisor who had heard of the party’s great deeds. Several nobles were seen discreetly vying for Lucian’s attention.  
+- Patrons, past allies, and former captives freed by the party, their gratitude evident in their words and gestures.  
+
+The crew joined Dagult and Aurelia on the battlements to watch fireworks in honor of their triumphs. But instead of a dazzling display, the skies above the city darkened. A black orb appeared, enveloping Neverwinter and tearing it from its foundation. The city was wrenched across the **Astral Sea**, through the **Outer Torments**, and into the fiery skies of **Avernus**, the first layer of the Nine Hells.  
+
+Dagult made a lengthy and impassioned explanation as the city’s new reality set in. But before the gravity of their situation could fully sink in, a chilling sound echoed through the night: screams rising from the castle’s lower halls.  
+
+Chaos had begun as Neverwinter faced its hellish descent.  
+
 ### A Moment of Clarity
 _As the chaos unfolds, a shaken Dagult Neverember, Lord Protector of Neverwinter, steps forward onto the battlements. His face is pale, his hands trembling. He looks at the you and speaks, his voice breaking but urgent:_
 
