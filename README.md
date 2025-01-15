@@ -881,7 +881,7 @@ The adventurers mingled with familiar faces and figures of significance, includi
 
 The crew joined Dagult and Aurelia on the battlements to watch fireworks in honor of their triumphs. But instead of a dazzling display, the skies above the city darkened. A black orb appeared, enveloping Neverwinter and tearing it from its foundation. The city was wrenched across the **Astral Sea**, through the **Outer Torments**, and into the fiery skies of **Avernus**, the first layer of the Nine Hells.  
 
-Dagult made a lengthy and impassioned explanation as the city’s new reality set in. But before the gravity of their situation could fully sink in, a chilling sound echoed through the night: screams rising from the castle’s lower halls.  
+Dagult made a lengthy and impassioned explanation as the city’s new reality set in. But before the gravity of their situation could fully sink in, a chilling sound echoed through the night: screams rising from the halls below.  
 
 Chaos had begun as Neverwinter faced its hellish descent.  
 
