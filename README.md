@@ -883,9 +883,7 @@ While the crew partook of the fine food and drink, especially Barricade, jesters
 
 The crew joined Dagult and Aurelia on the battlements to watch fireworks in honor of their triumphs. But instead of a dazzling display, the skies above the city darkened. A black orb appeared, enveloping Neverwinter and tearing it from its foundation. The city was wrenched across the **Astral Sea**, through the **Outer Torments**, and into the fiery skies of **Avernus**, the first layer of the Nine Hells.  
 
-Dagult made a lengthy and impassioned explanation as the city’s new reality set in. But before the gravity of their situation could fully sink in, a chilling sound echoed through the night: screams rising from the halls below.  
-
-Chaos had begun as Neverwinter faced its hellish descent.  
+As events unfolded, Dagult made a lengthy and impassioned plea as the city’s new reality set in. 
 
 ### A Moment of Clarity
 _As the chaos unfolds, a shaken Dagult Neverember, Lord Protector of Neverwinter, steps forward onto the battlements. His face is pale, his hands trembling. He looks at the you and speaks, his voice breaking but urgent:_
