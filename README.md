@@ -927,3 +927,21 @@ As the players mull over Dagult's words, they hear screams from the Hall below.
 # Session 31 - _Fall of Neverwinter_ 
 2025-01-02
 ### Flying Devils Attack!
+
+_Descending the stairs in response to the terrified screams, the party emerged into a scene of utter chaos. The Halls of Neverwinter, meant to serve as a sanctuary, had become a battlefield. Townsfolk who had sought refuge mingled with nobles and servants, all huddled behind makeshift defenses of overturned tables. Flying devils wielding chains and manacles swooped down, intent on capturing the souls of their prey—prized treasures in the infernal economy._
+
+_Amidst the pandemonium, the party quickly dispatched the devils threatening their immediate vicinity, carving a path to safety for those in their care. Dagult Neverember, desperate and resolute, implored the group to retrieve the Rod of Veiled Stars from the hidden crypt below the Halls. With the Rod and Aurelia, the celestial ally, a powerful fortification could be activated to protect Neverwinter from the infernal assault._
+
+### The Crypts
+_The party ventured into the ancient tombs with Aurelia, navigating a labyrinth of crypts and vaults beneath the city. These hallowed halls honored the heroes and scholars of Neverwinter's storied past. Among the treasures they discovered were several tomes:_
+
+- The Tome of Malharak: Chronicling Zariel’s rise and the fall of a celestial bastion.
+- The Tome of Tiamat: Describing her chains at the gates of Dis and her manipulation of the Cult of the Dragon to expand her worship in Faerûn.
+- The Tome of Brews: A collection of halfling brewing recipes and the history of a renowned family brewery.
+- The Manual Automata: Detailed schematics matching Steward’s design, with hints of potential upgrades.
+- The Glen’s Savior: A tale of a hero who saved the Verdant Glen, possibly linked to a modern-day champion.
+- The Tome of the Iron Mantle: Recounting the story of the Heninga and how their trials gave rise to an unexpected hero.
+
+_In the Tomb of the Unknown Soldier and the Main Vault, Aurelia detected a ward, though it appeared inert for both the party and herself. Delving deeper into the Main Vault, they discovered a series of mist-shrouded tombs, each bearing cryptic messages. Through a combination of wit, skill, and fortune, the party chose the correct tomb, claiming the Rod of Veiled Stars._
+
+_Before they could fully process their success, a thunderous crash shattered the silence. The sound of cracking stone reverberated through the crypt, followed by the unmistakable screams of those in peril above._
