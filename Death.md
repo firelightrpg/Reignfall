@@ -36,7 +36,7 @@ Fortunately for souls, this perpetual war over souls starts in Avernus, where de
 
 Angels are immortal and cannot be permanently killed anywhere. When killed in their home plane, they remain an essence of holy energy for days or weeks before returning to their physical form. When killed in the lower planes, however, they rise as a fiend. 
 ![image](https://github.com/user-attachments/assets/55b451cf-9df2-48fc-a002-849cabb21474)
-![image](https://github.com/user-attachments/assets/bd0b65e4-7c0f-43dc-b66c-ddc7bce49dd8)
+![image](https://github.com/user-attachments/assets/5bb47f83-b261-4d6c-83fc-1c7d56d9690e)
 
 
 Fiends face true annihilation when slain on their home plane, but even elsewhere, death has consequences. If destroyed outside their native plane, they reform in their home plane at a cost. This demotion often strips away much of their power and individuality, reducing them to a primordial state that may take weeks, months or even years to rebuild. The mightier the outsider, the less they are diminished, but the loss is never trivial.
