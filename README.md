@@ -942,6 +942,6 @@ _The party ventured into the ancient tombs with Aurelia, navigating a labyrinth 
 - The Glen’s Savior: A tale of a hero who saved the Verdant Glen, possibly linked to a modern-day champion.
 - The Tome of the Iron Mantle: Recounting the story of the Heninga and how their trials gave rise to an unexpected hero.
 
-_In the Tomb of the Unknown Soldier and the Main Vault, Aurelia detected a ward, though it appeared inert for both the party and herself. Delving deeper into the Main Vault, they discovered a series of mist-shrouded tombs, each bearing cryptic messages. Through a combination of wit, skill, and fortune, the party chose the correct tomb, claiming the Rod of Veiled Stars._
+_In the Tomb of the Unknown Soldier and the Main Vault, Aurelia detected a ward, though it appeared inert for both the party and herself. Delving deeper into the Main Vault, they discovered a series of mist-shrouded tombs, each bearing cryptic messages. Through a combination of wit, skill, and fortune, the party chose the correct tomb, claiming the [Rod of Veiled Stars]([url](https://www.dndbeyond.com/magic-items/9478179-rod-of-veiled-stars))._
 
 _Before they could fully process their success, a thunderous crash shattered the silence. The sound of cracking stone reverberated through the crypt, followed by the unmistakable screams of those in peril above._
