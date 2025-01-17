@@ -37,10 +37,10 @@ All of the technical and rules details are here
   - [Session 27 - _Weald of Woe_](#session-27---weald-of-woe)
   - [Session 28 - _Weald of Woe_](#session-28---weald-of-woe)
   - [Session 29 - _Weald of Woe_](#session-29---weald-of-woe)
-
+  - [Session 30 - _Fall of Neverwinter_](#session-30---fall-of-neverwinter)
 </details>
 
-- [Session 30 - _Fall of Neverwinter_](#session-30---fall-of-neverwinter)
+- [Session 31 - _Fall of Neverwinter_](#session-31---fall-of-neverwinter)
 
 
 # Session 1 - _Poisoned Skies - Darkening of the Wood_
@@ -923,3 +923,7 @@ _He steps closer, his tone resolute now._
 > “Aurelia’s celestial heritage may yet be our salvation. And with your strength, we might find a way to undo what I’ve set in motion. But for now, we fight to survive. And for that... I need you. This city needs you.”
 
 As the players mull over Dagult's words, they hear screams from the Hall below. 
+
+# Session 31 - _Fall of Neverwinter_ 
+2025-01-02
+### Flying Devils Attack!
