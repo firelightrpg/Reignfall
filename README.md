@@ -986,4 +986,4 @@ _Side note – Flankstake wanders by himself a lot.  Like, A LOT.  (So do I, but
 
 _Side side note – I nearly did something stupid.  In the vault we came upon the crypt of The Unknown Hero.  Sticking to my resolve to be a bit more reckless like Barricade, I almost stole her sword.  I couldn’t even use it; it was SO big.  But thankfully, my other goal, to be more like Eg, kicked in and I stopped myself, honored the fallen hero and asked forgiveness._
 
-I miss Eg.  But today, I’m kind of glad he’s not here.  What a mess.  And it helps to know he’s out there in the material plane doing his thing, hopefully safe and sound.
+_I miss Eg.  But today, I’m kind of glad he’s not here.  What a mess.  And it helps to know he’s out there in the material plane doing his thing, hopefully safe and sound._
