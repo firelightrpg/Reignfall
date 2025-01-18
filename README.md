@@ -970,3 +970,20 @@ _Before they could fully process their success, a thunderous crash shattered the
   - _The Heninga are a force born of chaos, uniting orcs, half-orcs, and humans beneath the Iron Mantle’s command. The mantle, a relic of great power, bestows visions of conquest to its bearer and compels obedience among rivals._
   - _In the Year of the Barren Elms, the Heninga marched from the Spine of the World, bypassing Citadel Adbar and Mirabar, and turned west. Their path of destruction reached the edge of the Evermoors before descending south._
   - _The Fall of Conyberry was swift and brutal. Fires consumed its fields and homes, and the town’s people were left shattered. Survivors spoke of a lone woman who fled to Phandalin, bearing a heavy burden—a child of uncertain parentage, taken from her arms to protect her and the town from the shadow of the Heninga’s legacy._
+
+### Lulu's Journal
+_Well, I guess I should have seen it coming.  But I didn’t. No apprehension, no caution, no worries.  My father would be SO disappointed._
+
+_We finally routed out the pesky cultists, got to the heart of the matter – the actual dragon – and dispatched her and her undead army.  I regret the death of so many fey who committed whole heartedly to the battle.  But I did enjoy seeing Telarion again, and I gotta say, riding a dragon mount into battle was almost a dream come true._
+
+_We rode back into Leilon on quite a high, “the Swords of Leilon” saved the town.  We received the invitation to the gala in our honor almost immediately.  Hardly time to check in at the Manor.  Note to self, we really need to rename it – Swords’ Manor perhaps?  I was so upbeat about our victory and the coming celebration that I almost left all my weapons behind.  Again, Father would have “tut-tutted” and shaken his head in disapproval.  Glad I didn’t do that though._
+
+_Everything was so amazing in Neverwinter.  What a shindig!  So many of our friends we made during our adventuring before and even into Leilon were there.  Alice even brought Ava with her – she’s gotten so big!  Meeting Dagult Neverember and his daughter, Aurelia, left me with unease - my first warning that all was not right with the world.  Sure enough, the fireworks display was interrupted by the rending of the earth and the removal of all Neverwinter to the plane of Avernus, hell itself.  Buildings, people, the very ground uprooted and transported._
+
+_All because of a deal Lord Neverember made with the devil.  He tried to trick Asmodeus and his envoy Lucien, but that never works.  So here we all are.  Neverember’s guards and the lords of the Triad try to keep the townspeople safe while we head below to secure the relic that will activate the safeguards against infernal incursion.  Aurelia, is the key.  But she is swarmed by the infernals.  This greatly bothers me.  Why are they so attracted to her?_
+
+_Side note – Flankstake wanders by himself a lot.  Like, A LOT.  (So do I, but I call it scouting.)  Anyway, this time it paid off BIG.  In the levels below the Hall of Justice, Flankstake found a cache of tomes (in the crypts of the learned).  He’s got several of them, we’ll have to study them in more detail when we have time.  Steward was so excited in just the few minutes we spent looking them over that I thought he was going to explode.  His normal low-toned whirring and ticking noises got really loud._
+
+_Side side note – I nearly did something stupid.  In the vault we came upon the crypt of The Unknown Hero.  Sticking to my resolve to be a bit more reckless like Barricade, I almost stole her sword.  I couldn’t even use it; it was SO big.  But thankfully, my other goal, to be more like Eg, kicked in and I stopped myself, honored the fallen hero and asked forgiveness._
+
+I miss Eg.  But today, I’m kind of glad he’s not here.  What a mess.  And it helps to know he’s out there in the material plane doing his thing, hopefully safe and sound.
