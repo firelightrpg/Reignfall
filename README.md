@@ -925,7 +925,7 @@ _He steps closer, his tone resolute now._
 As the players mull over Dagult's words, they hear screams from the Hall below. 
 
 # Session 31 - _Fall of Neverwinter_ 
-2025-01-02
+2025-01-16
 ### Flying Devils Attack!
 
 _Descending the stairs in response to the terrified screams, the party emerged into a scene of utter chaos. The Halls of Justice, meant to serve as a sanctuary, had become a battlefield. Townsfolk who had sought refuge mingled with nobles and servants, all huddled behind makeshift defenses of overturned tables. Flying devils wielding chains and manacles swooped down, intent on capturing the souls of their prey—prized treasures in the infernal economy._
