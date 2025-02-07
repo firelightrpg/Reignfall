@@ -944,7 +944,7 @@ _The party ventured into the ancient tombs with Aurelia, navigating a labyrinth 
 
 _In the Tomb of the Unknown Soldier, where Lulu struggled with her inner, overwhelming desire for more yet left the well crafted greatsword at the soldier's side, and the Main Vault, Aurelia detected a ward, though it appeared inert for both the party and herself. Delving deeper into the Main Vault, they discovered a series of mist-shrouded tombs, each bearing cryptic messages. Through a combination of wit, skill, and fortune, the party chose the correct tomb, claiming the [Rod of Veiled Stars](https://www.dndbeyond.com/magic-items/9478179-rod-of-veiled-stars). Aurelia mentioned the fortification could be activated by activating the sanctuary with the staff in her presence while playing the pipe organ in the sanctuary accompanying the battlements._
 
-_Steward and Flanksteak also discoverd a unqiue fire, continual, like the others, but more... celestial, a spark of the flame eternal - the very secret fire rumored to be the source of creation. Steward lit two torches from this flame..._
+_Steward and Flanksteak also discoverd a unqiue fire, continual, like the others, but more... celestial, a spark of the [flame eternal](https://www.dndbeyond.com/magic-items/9583693-torch-of-the-eternal-flame) - the very secret fire rumored to be the source of creation. Steward lit two torches from this flame..._
 
 _Before they could fully process their success, a thunderous crash shattered the silence. The sound of cracking stone reverberated through the crypt, followed by the unmistakable screams of those in peril above._
 
