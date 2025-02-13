@@ -1002,7 +1002,7 @@ _Rushing into action, the party corralled the fleeing townsfolk toward the main 
 
 _In the desperate fight, Aurelia transformed into a giant elk, trampling through the enemy ranks but suffering a grievous infernal wound from the cornugon’s cruel weapon. With sheer determination, the party slaughtered the devils, tending to Aurelia’s wounds before fully healing her in the sacred pool of the main vault._
 
-_From there,youthey battled through the chaotic main hall, ascending the battered fortress to reach the upper battlements, where you needed to complete the celestial fortification ritual. But before you could succeed, Lucian returned, flanked by a pack of shadowy wolves, intent on stopping the party and upholding his dark bargain._
+_From there, you battled through the chaotic main hall, ascending the battered fortress to reach the upper battlements, where you needed to complete the celestial fortification ritual. But before you could succeed, Lucian returned, flanked by a pack of shadowy wolves, intent on stopping the party and upholding his dark bargain._
 
 _The party struck him down, wielding the Torch of the Eternal Flame to banish his darkness for good, ensuring that this time, Lucian would not return._
 
