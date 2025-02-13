@@ -40,7 +40,8 @@ All of the technical and rules details are here
   - [Session 30 - _Fall of Neverwinter_](#session-30---fall-of-neverwinter)
   - [Session 31 - _Fall of Neverwinter_](#session-31---fall-of-neverwinter)
 </details>
-  - [Session 32 - _Fall of Neverwinter_](#session-32---fall-of-neverwinter)
+
+[Session 32 - _Fall of Neverwinter_](#session-32---fall-of-neverwinter)
 
 
 
