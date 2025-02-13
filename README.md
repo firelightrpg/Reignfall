@@ -995,4 +995,15 @@ _I miss Eg.  But today, I’m kind of glad he’s not here.  What a mess.  And i
 ---
 
 # Session 32 - _Fall of Neverwinter_
-## Baatezu enter the crypts!
+## Chaos in the Crypts & the Celestial Fortification
+_Fresh from securing the Rod of Veiled Stars, the party barely had a moment to celebrate before a thunderous crash shook the crypts. The sound of splitting stone and panicked screams confirmed their fears—the battle above had spilled into the depths._
+
+_Rushing into action, the party corralled the fleeing townsfolk toward the main crypt, shielding them from a baatezu hunting party. Spinagons swarmed ahead, while a ruthless cornugon captain led the charge, brandishing infernal chains, intent on enslaving the survivors._
+
+_In the desperate fight, Aurelia transformed into a giant elk, trampling through the enemy ranks but suffering a grievous infernal wound from the cornugon’s cruel weapon. With sheer determination, the party slaughtered the devils, tending to Aurelia’s wounds before fully healing her in the sacred pool of the main vault._
+
+_From there,youthey battled through the chaotic main hall, ascending the battered fortress to reach the upper battlements, where you needed to complete the celestial fortification ritual. But before you could succeed, Lucian returned, flanked by a pack of shadowy wolves, intent on stopping the party and upholding his dark bargain._
+
+_The party struck him down, wielding the Torch of the Eternal Flame to banish his darkness for good, ensuring that this time, Lucian would not return._
+
+_Now, with the ritual before them and the fortress teetering on the edge of ruin, the final steps remain. Will the celestial fortification be enough to turn the tide?_
