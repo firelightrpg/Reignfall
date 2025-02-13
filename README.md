@@ -994,3 +994,4 @@ _I miss Eg.  But today, I’m kind of glad he’s not here.  What a mess.  And i
 ---
 
 # Session 32 - _Fall of Neverwinter_
+## Baatezu enter the crypts!
