@@ -38,9 +38,10 @@ All of the technical and rules details are here
   - [Session 28 - _Weald of Woe_](#session-28---weald-of-woe)
   - [Session 29 - _Weald of Woe_](#session-29---weald-of-woe)
   - [Session 30 - _Fall of Neverwinter_](#session-30---fall-of-neverwinter)
+  - [Session 31 - _Fall of Neverwinter_](#session-31---fall-of-neverwinter)
 </details>
+  - [Session 32 - _Fall of Neverwinter_](#session-32---fall-of-neverwinter)
 
-- [Session 31 - _Fall of Neverwinter_](#session-31---fall-of-neverwinter)
 
 
 # Session 1 - _Poisoned Skies - Darkening of the Wood_
@@ -989,3 +990,7 @@ _Side note – Flankstake wanders by himself a lot.  Like, A LOT.  (So do I, but
 _Side side note – I nearly did something stupid.  In the vault we came upon the crypt of The Unknown Hero.  Sticking to my resolve to be a bit more reckless like Barricade, I almost stole her sword.  I couldn’t even use it; it was SO big.  But thankfully, my other goal, to be more like Eg, kicked in and I stopped myself, honored the fallen hero and asked forgiveness._
 
 _I miss Eg.  But today, I’m kind of glad he’s not here.  What a mess.  And it helps to know he’s out there in the material plane doing his thing, hopefully safe and sound._
+
+---
+
+# Session 32 - _Fall of Neverwinter_ 
