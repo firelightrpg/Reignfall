@@ -42,7 +42,7 @@ All of the technical and rules details are here
   - [Session 32 - _Fall of Neverwinter_](#session-32---fall-of-neverwinter)
 </details>
 
-[Session 33 - _Across the Wastes of Avernus_](#session-33---_across-the-wastes-of-avernus_)
+[Session 33 - _Across the Wastes of Avernus_](#session-33---across-the-wastes-of-avernus)
 
 
 
