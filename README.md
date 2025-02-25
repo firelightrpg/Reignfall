@@ -1016,9 +1016,9 @@ _Now, with the ritual before them and the fortress teetering on the edge of ruin
 
 _The party successfully activated the Celestial Fortification, repelling the devils assaulting Neverwinter, though the city remains chained to the Blood Rift. Dagult and Aurelia inform them that the Prismatic Spire of Malharak might be the key to breaking the chains, but it requires the Flame Eternal—a fragment of creation’s fire—currently sealed within Tiamat’s temple._
 
-_[The Rod of Veiled Stars](https://www.dndbeyond.com/homebrew/creations/view?entityTypeId=112130694&id=9478179), 
-the [Torch of the Eternal Flame](https://www.dndbeyond.com/homebrew/creations/view?entityTypeId=112130694&id=9583693) and the 
-[Staff of Translocation](https://www.dndbeyond.com/homebrew/creations/view?entityTypeId=112130694&id=9478114) act as 
+_[The Rod of Veiled Stars](https://www.dndbeyond.com/magic-items/9478179-rod-of-veiled-stars), 
+the [Torch of the Eternal Flame](https://www.dndbeyond.com/magic-items/9583693-torch-of-the-eternal-flame) and the 
+[Staff of Translocation](https://www.dndbeyond.com/magic-items/9478114-staff-of-translocation) act as 
 keys to traversing Avernus and breaching the temple, but the road is perilous. Meanwhile, Zim provides an amulet linked to a celestial mark on a fleeing dragonborn acolyte, allowing the party to track them to the temple._
 
 ## Scenes Played:
