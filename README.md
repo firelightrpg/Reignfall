@@ -39,9 +39,11 @@ All of the technical and rules details are here
   - [Session 29 - _Weald of Woe_](#session-29---weald-of-woe)
   - [Session 30 - _Fall of Neverwinter_](#session-30---fall-of-neverwinter)
   - [Session 31 - _Fall of Neverwinter_](#session-31---fall-of-neverwinter)
+  - [Session 32 - _Fall of Neverwinter_](#session-32---fall-of-neverwinter)
 </details>
 
-[Session 32 - _Fall of Neverwinter_](#session-32---fall-of-neverwinter)
+[Session 33 - _Across the Wastes of Avernus_](#session-33---_across-the-wastes-of-avernus_)
+
 
 
 
@@ -946,7 +948,7 @@ _The party ventured into the ancient tombs with Aurelia, navigating a labyrinth 
 
 _In the Tomb of the Unknown Soldier, where Lulu struggled with her inner, overwhelming desire for more yet left the well crafted greatsword at the soldier's side, and the Main Vault, Aurelia detected a ward, though it appeared inert for both the party and herself. Delving deeper into the Main Vault, they discovered a series of mist-shrouded tombs, each bearing cryptic messages. Through a combination of wit, skill, and fortune, the party chose the correct tomb, claiming the [Rod of Veiled Stars](https://www.dndbeyond.com/magic-items/9478179-rod-of-veiled-stars). Aurelia mentioned the fortification could be activated by activating the sanctuary with the staff in her presence while playing the pipe organ in the sanctuary accompanying the battlements._
 
-_Steward and Flanksteak also discoverd a unqiue fire, continual, like the others, but more... celestial, a spark of the [flame eternal](https://www.dndbeyond.com/magic-items/9583693-torch-of-the-eternal-flame) - the very secret fire rumored to be the source of creation. Steward lit two torches from this flame..._
+_Steward and Flanksteak also discovered a unique fire, continual, like the others, but more... celestial, a spark of the [flame eternal](https://www.dndbeyond.com/magic-items/9583693-torch-of-the-eternal-flame) - the very secret fire rumored to be the source of creation. Steward lit two torches from this flame..._
 
 _Before they could fully process their success, a thunderous crash shattered the silence. The sound of cracking stone reverberated through the crypt, followed by the unmistakable screams of those in peril above._
 
@@ -995,6 +997,7 @@ _I miss Eg.  But today, I’m kind of glad he’s not here.  What a mess.  And i
 ---
 
 # Session 32 - _Fall of Neverwinter_
+2025-02-06
 ## Chaos in the Crypts & the Celestial Fortification
 _Fresh from securing the Rod of Veiled Stars, the party barely had a moment to celebrate before a thunderous crash shook the crypts. The sound of splitting stone and panicked screams confirmed their fears—the battle above had spilled into the depths._
 
@@ -1007,3 +1010,19 @@ _From there, you battled through the chaotic main hall, ascending the battered f
 _The party struck him down, wielding the Torch of the Eternal Flame to banish his darkness for good, ensuring that this time, Lucian would not return._
 
 _Now, with the ritual before them and the fortress teetering on the edge of ruin, the final steps remain. Will the celestial fortification be enough to turn the tide?_
+
+# Session 33 - _Across the Wastes of Avernus_
+2025-02-20
+
+_The party successfully activated the Celestial Fortification, repelling the devils assaulting Neverwinter, though the city remains chained to the Blood Rift. Dagult and Aurelia inform them that the Prismatic Spire of Malharak might be the key to breaking the chains, but it requires the Flame Eternal—a fragment of creation’s fire—currently sealed within Tiamat’s temple._
+
+_[The Rod of Veiled Stars](https://www.dndbeyond.com/homebrew/creations/view?entityTypeId=112130694&id=9478179), 
+the [Torch of the Eternal Flame](https://www.dndbeyond.com/homebrew/creations/view?entityTypeId=112130694&id=9583693) and the 
+[Staff of Translocation](https://www.dndbeyond.com/homebrew/creations/view?entityTypeId=112130694&id=9478114) act as 
+keys to traversing Avernus and breaching the temple, but the road is perilous. Meanwhile, Zim provides an amulet linked to a celestial mark on a fleeing dragonborn acolyte, allowing the party to track them to the temple._
+
+## Scenes Played:
+- **The Battlefield Beyond the Rise** – _The party encountered a battle between baatezu and tanar’ri, finding a captive deva whose divine energy was being used to fuel infernal sorcerers. They chose to free her._
+- **The Outcasts’ Refuge** – _A pit fiend and barbazu squad were trying to enter a dungeon below a ruined fortress, but a radiant rift warded the entrance. The party delved into the dungeon, retrieving items but failing to open a massive stone door until Steward cast Reduce on it. They retrieved the pit fiend’s banner. Perhaps this will restore balance from their previous engagement..._
+## Next Steps:
+The party must return the banner and continue toward Tiamat’s temple to retrieve the Flame Eternal before she can claim it for herself.
