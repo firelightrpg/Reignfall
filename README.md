@@ -40,11 +40,10 @@ All of the technical and rules details are here
   - [Session 30 - _Fall of Neverwinter_](#session-30---fall-of-neverwinter)
   - [Session 31 - _Fall of Neverwinter_](#session-31---fall-of-neverwinter)
   - [Session 32 - _Fall of Neverwinter_](#session-32---fall-of-neverwinter)
+  - [Session 33 - _Across the Wastes of Avernus_](#session-33---across-the-wastes-of-avernus)
 </details>
 
-[Session 33 - _Across the Wastes of Avernus_](#session-33---across-the-wastes-of-avernus)
-
-
+[Session 34 - _Across the Wastes of Avernus_](#session-34---across-the-wastes-of-avernus)
 
 
 # Session 1 - _Poisoned Skies - Darkening of the Wood_
@@ -1026,3 +1025,17 @@ keys to traversing Avernus and breaching the temple, but the road is perilous. M
 - **The Outcasts’ Refuge** – _A pit fiend and barbazu squad were trying to enter a dungeon below a ruined fortress, but a radiant rift warded the entrance. The party delved into the dungeon, retrieving items but failing to open a massive stone door until Steward cast Reduce on it. They retrieved the pit fiend’s banner. Perhaps this will restore balance from their previous engagement..._
 ## Next Steps:
 The party must return the banner and continue toward Tiamat’s temple to retrieve the Flame Eternal before she can claim it for herself.
+
+# Session 34 - _Across the Wastes of Avernus_
+2025-03-06
+
+_After returning Zarximor's banner, the exiled general and his outcasts pledged to rejoin the eternal conflict of the Blood War. While it remains to be seen how this will impact Avernus, one thing is certain—Zarximor and his warriors are no longer bound to aimless exile._
+
+_Pressing onward, the party encountered an **infernal tempest**, a violent storm of hellish winds and searing energy. Amidst the chaos, the monk braved the storm and emerged with something unusual—an **angel’s heart**, its purpose and power still unknown. For now, it rests safely in the **Bag of Holding**._  
+
+_Your next challenge came in the form of the **Nihilists**—a zealous cult devoted to bringing demons into Avernus. The party had a chance to disrupt their dark ritual but missed the moment, allowing two **Balguras** to emerge. The battle was brutal, not just due to the demons but also because of the cultists' chaotic nature. In the madness, they turned on each other, even transforming some of their own into **ghasts**._
+
+_After a grueling fight, the party prevailed. Wounded and drained, they made the decision to **rest** before continuing deeper into the horrors of Avernus._
+
+---
+
