@@ -1063,6 +1063,15 @@ _The battle was brutal. Lulu’s arrows struck true, forcing Sytheris to abandon
 
 _Believing Sytheris might now be freed from her chains, Steward attempted to reason with her. But her betrayal was long past, her loyalty to the Nine Hells a cold, merciless truth. Redemption was not hers to seek._
 
+## The Temple of Tiamat
+_After descending into the depths and breaking the first sigil stone, you topped the next rise to emerge on the scorched plains of Avernus, only to find themselves at the outskirts of something far worse. The Temple of Tiamat rose in the distance, a twisted, five-pointed star of obsidian and molten stone clawing toward the sky. Its spires burned with the hues of chromatic dragons, radiating malevolence. Above, dragons and Abishai patrolled the air, while on the ground, a long, sinuous train of devotees wait patiently to enter, being scrutizined with only the faithful allowed to enter. Amongst the devotees, two factions of the Cult of the Dragon were seen clashing over their differing beliefs._
+
+_The reformed Cult of the Dragon, draped in crimson robes bearing Severin’s sigils, sought Tiamat’s reign over the mortal world through living dragons. Opposing them were the Keepers of the Sacred Horn, fanatical followers of Sammaster’s teachings, who awaited the rise of dead dragons to rule Toril._
+
+_You kept your distance, watching the cultists bicker and clash, all while the amulet in their possession pulsed steadily. Its pull was not toward the temple’s spires but down—deep beneath the temple’s massive foundations, where something waited._
+
+_The session ended with the party deliberating on their next move, uncertain of how to navigate the fractured loyalties of the cultists or how to reach the darkness far below._
+
 
 
 
