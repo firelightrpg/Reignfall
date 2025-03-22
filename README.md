@@ -41,9 +41,10 @@ All of the technical and rules details are here
   - [Session 31 - _Fall of Neverwinter_](#session-31---fall-of-neverwinter)
   - [Session 32 - _Fall of Neverwinter_](#session-32---fall-of-neverwinter)
   - [Session 33 - _Across the Wastes of Avernus_](#session-33---across-the-wastes-of-avernus)
+  - [Session 34 - _Across the Wastes of Avernus_](#session-34---across-the-wastes-of-avernus)
 </details>
 
-[Session 34 - _Across the Wastes of Avernus_](#session-34---across-the-wastes-of-avernus)
+[Session 35 - _Across the Wastes of Avernus_](#session-35---across-the-wastes-of-avernus)
 
 
 # Session 1 - _Poisoned Skies - Darkening of the Wood_
@@ -1038,4 +1039,30 @@ _Your next challenge came in the form of the **Nihilists**—a zealous cult devo
 _After a grueling fight, the party prevailed. Wounded and drained, they made the decision to **rest** before continuing deeper into the horrors of Avernus._
 
 ---
+# Session 35 - _Across the Wastes of Avernus_
+2025-03-20
+## Aasimon Insurrection
+_In the molten depths of the Infernal battlefield, your arrival turned the tide of a desperate struggle. Celestial warriors, their armor dulled and wings battered, fought with grim determination against devils commanded by Vexthar, "The Shackler," and Zirathris, "The Whispering Chains." Amidst clashing steel and burning stone, Commander Vaelios, "Shield of the Righteous," spotted you and called out:_
+> "You are not devils. Then perhaps you are salvation."
+
+_Together, you defeated the kytons and their allies, breaking the chains that enslaved the angels. As the battle fell to silence, the three surviving aasimon—Vaelios, Seraphaine, "Flame of the Heavens," and Myrielle, "Divine Light"—collapsed, their celestial light flickering._
+
+_Vaelios, his voice hoarse but determined, revealed the truth: "This is our one chance. The contract is inside—the last shackle that binds us to the Pit." He gestured toward a jagged chasm exuding infernal magic, a place the angels could not enter. A barrier prevented them from crossing, leaving the task in your hands. You entered the fissure._
+
+### Phase 2 - The Dungeon: Sanctum of the Bound
+_Having entered the infernal chasm, you pressed forward through sweltering darkness. Cavern walls scarred with molten fissures loomed around them, and pits of bubbling lava dotted the floor. The air was thick with sulfur and something far worse._
+
+_You soon encountered Sytheris the Oathbound, an erinyes whose once-radiant armor was now blackened and inscribed with infernal script. Her wings, twisted into crimson razors, marked her as something far removed from the celestial warrior she once was._
+> "I heard your bargain," she sneered. "Vaelios always was the sentimental one."
+
+_A brutish orthon lumbered behind her, its armored bulk radiating fiendish power. Its massive crossbow crackled with energy, marking it as a formidable opponent._
+
+> "Run, mortals," Sytheris taunted. "Or become the next signatures in the contract."
+
+_The battle was brutal. Lulu’s arrows struck true, forcing Sytheris to abandon her tactic of flying out over the lava and confront the party in melee. Meanwhile, Barricade, in the wildshape of an owlbear, tore into the orthon, ultimately delivering a devastating strike that shattered the stone anchoring the infernal contract on this side of the pit. The critical blow disrupted the binding magic, breaking the sigil’s power._
+
+_Believing Sytheris might now be freed from her chains, Steward attempted to reason with her. But her betrayal was long past, her loyalty to the Nine Hells a cold, merciless truth. Redemption was not hers to seek._
+
+
+
 
