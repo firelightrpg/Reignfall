@@ -1078,13 +1078,14 @@ _The session ended with the party deliberating on their next move, uncertain of 
 # Session 36 - _Below the Temple of Tiamat_
 2025-04-10
 
-**The descent...**
+## **The descent...**
 
 After dispatching a few cultists, you claimed their robes and used them to disguise yourselves. Rather than taking the obvious path, you used the *Staff of Translocation* to blink across a lava chasm to a distant landing you’d spotted earlier.
 
 There, you began the treacherous descent—navigating steep cliffs and ancient stairs carved into the rock. Along the way, you were confronted by a trio of black abishai. Attempts at deception failed, and battle ensued. You emerged victorious and pressed onward.
 
-**The Hanging Level...**
+## **The Hanging Level...**
+
 You descended the stairs to a platform, suspended above molten rivers. At the threshold, you were assailed by tormented spirits bound in chains, but you broke their hold and sent them to rest.
 
 Now, with the way ahead clear, you stand ready to delve deeper into the heart of the infernal temple...
