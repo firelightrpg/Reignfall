@@ -42,9 +42,10 @@ All of the technical and rules details are here
   - [Session 32 - _Fall of Neverwinter_](#session-32---fall-of-neverwinter)
   - [Session 33 - _Across the Wastes of Avernus_](#session-33---across-the-wastes-of-avernus)
   - [Session 34 - _Across the Wastes of Avernus_](#session-34---across-the-wastes-of-avernus)
+  - [Session 35 - _Across the Wastes of Avernus_](#session-35---across-the-wastes-of-avernus)
 </details>
 
-[Session 35 - _Across the Wastes of Avernus_](#session-35---across-the-wastes-of-avernus)
+[Session 36 - _Below the Temple of Tiamat_](#session-36---below-the-temple-of-tiama)
 
 
 # Session 1 - _Poisoned Skies - Darkening of the Wood_
@@ -1073,5 +1074,19 @@ _You kept your distance, watching the cultists bicker and clash, all while the a
 _The session ended with the party deliberating on their next move, uncertain of how to navigate the fractured loyalties of the cultists or how to reach the darkness far below._
 
 
+---
+# Session 36 - _Below the Temple of Tiamat_
+2025-04-10
 
+**The descent...**
 
+After dispatching a few cultists, you claimed their robes and used them to disguise yourselves. Rather than taking the obvious path, you used the *Staff of Translocation* to blink across a lava chasm to a distant landing you’d spotted earlier.
+
+There, you began the treacherous descent—navigating steep cliffs and ancient stairs carved into the rock. Along the way, you were confronted by a trio of black abishai. Attempts at deception failed, and battle ensued. You emerged victorious and pressed onward.
+
+**The Hanging Level...**
+You descended the stairs to a platform, suspended above molten rivers. At the threshold, you were assailed by tormented spirits bound in chains, but you broke their hold and sent them to rest.
+
+Now, with the way ahead clear, you stand ready to delve deeper into the heart of the infernal temple...
+
+---
