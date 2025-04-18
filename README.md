@@ -45,7 +45,7 @@ All of the technical and rules details are here
   - [Session 35 - _Across the Wastes of Avernus_](#session-35---across-the-wastes-of-avernus)
 </details>
 
-[Session 36 - _Below the Temple of Tiamat_](#session-36---below-the-temple-of-tiama)
+[Session 36 - _Below the Temple of Tiamat_](#session-36---below-the-temple-of-tiamat)
 
 
 # Session 1 - _Poisoned Skies - Darkening of the Wood_
